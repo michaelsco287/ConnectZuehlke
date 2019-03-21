@@ -62,8 +62,7 @@ library.add(faAngular);
     MapComponent,
     CustomerListComponent,
     CustomerComponent,
-    EmployeeInterestsComponent,
-    CustomerDetailComponent
+    EmployeeInterestsComponent
   ],
   imports: [
     BrowserModule,
