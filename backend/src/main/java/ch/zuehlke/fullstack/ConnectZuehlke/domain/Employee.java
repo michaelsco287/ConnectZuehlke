@@ -24,6 +24,14 @@ public class Employee {
         this.interests = new ArrayList<>();
     }
 
+    public Employee(String firstName, String lastName, int id, String code, List<Interests> interests) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.id = id;
+        this.code = code;
+        this.interests = interests;
+    }
+
     public String getLastName() {
         return lastName;
     }
@@ -57,6 +65,7 @@ public class Employee {
                 firstName.equals(employee.firstName) &&
                 lastName.equals(employee.lastName) &&
                 code.equals(employee.code) &&
+//                interests.equals(employee.interests);
                 Objects.equals(interests, employee.interests);
     }
 
