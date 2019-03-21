@@ -13,7 +13,7 @@ import {Interest} from "../domain/Interest";
 })
 export class EmployeeInterestsComponent implements OnInit {
   employee$: Observable<Employee>;
-  INTERESTS: Interest[] = [{name: "Testing", id: 0}, {name: "iOS", id: 1}];
+  INTERESTS: Interest[] = [{name: "Testing", id: "0"}, {name: "iOS", id: "1"}];
 
   constructor(
     private route: ActivatedRoute,

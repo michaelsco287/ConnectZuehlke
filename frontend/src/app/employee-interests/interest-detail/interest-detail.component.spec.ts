@@ -1,6 +1,11 @@
 import {async, ComponentFixture, TestBed} from '@angular/core/testing';
 
 import {InterestDetailComponent} from './interest-detail.component';
+import {RouterTestingModule} from "@angular/router/testing";
+import {EmployeeService} from "../../employee.service";
+import {Interest} from "../../domain/Interest";
+import {Employee} from "../../domain/Employee";
+import {Observable, of} from "rxjs";
 
 describe('InterestDetailComponent', () => {
   let component: InterestDetailComponent;
@@ -8,7 +13,13 @@ describe('InterestDetailComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [InterestDetailComponent]
+      imports: [
+        RouterTestingModule,
+      ],
+      declarations: [InterestDetailComponent],
+      providers: [
+        {provide: EmployeeService, useClass: EmployeeServiceStub}
+      ]
     })
       .compileComponents();
   }));
@@ -23,3 +34,14 @@ describe('InterestDetailComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
+const INTERESTS: Interest[] = [{name: "Testing", id: "0"}, {name: "iOS", id: "1"}];
+const EMPLOYEES: Employee[] = [
+  {firstName: 'Tommy', lastName: 'Tester', id: 1, code: 'tote', interests: INTERESTS}
+];
+
+class EmployeeServiceStub {
+  getEmployee(code: string): Observable<Employee> {
+    return of(EMPLOYEES.find(e => e.code === code));
+  }
+}

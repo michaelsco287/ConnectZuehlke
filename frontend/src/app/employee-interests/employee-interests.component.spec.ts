@@ -60,7 +60,7 @@ describe('EmployeeInterestsComponent', () => {
   })
 });
 
-const INTERESTS: Interest[] = [{name: "Testing", id: 0}, {name: "iOS", id: 1}];
+const INTERESTS: Interest[] = [{name: "Testing", id: "0"}, {name: "iOS", id: "1"}];
 const EMPLOYEES: Employee[] = [
   {firstName: 'Tommy', lastName: 'Tester', id: 1, code: 'tote', interests: INTERESTS}
 ];

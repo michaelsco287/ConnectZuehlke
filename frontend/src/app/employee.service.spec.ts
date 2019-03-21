@@ -26,15 +26,55 @@ describe('EmployeeService', () => {
     expect(service).toBeTruthy();
   });
 
-  it('should call get employees', () => {
+  it('should call get employees', (passTheTestCallback) => {
     const dummyEmployees = EMPLOYEES;
     service.getAllEmployees().subscribe((employees: Employee[]) => {
       expect(employees.length).toBe(2);
       expect(employees).toEqual(dummyEmployees);
+      passTheTestCallback();
     });
 
     const req = httpMock.expectOne('/api/employees');
     expect(req.request.method).toBe('GET');
     req.flush(dummyEmployees);
   });
+
+  it("should get no employees with an interest that nobody has", (passTheTestCallback) => {
+    const dummyEmployees = EMPLOYEES;
+    service.getAllEmployeesWithInterest("albo", "foo")
+      .subscribe((employees: Employee[]) => {
+          expect(employees.length).toBe(0);
+          passTheTestCallback();
+        }
+      );
+    const req = httpMock.expectOne('/api/employees');
+    expect(req.request.method).toBe('GET');
+    req.flush(dummyEmployees);
+  });
+
+  it("should get employees with a given interest", (passTheTestCallback) => {
+    const dummyEmployees = EMPLOYEES;
+    service.getAllEmployeesWithInterest("albo", "123")
+      .subscribe((employees: Employee[]) => {
+          expect(employees.length).toBe(1);
+          passTheTestCallback();
+        }
+      );
+    const req = httpMock.expectOne('/api/employees');
+    expect(req.request.method).toBe('GET');
+    req.flush(dummyEmployees);
+  });
+
+  it("doesnt get employees with a given interest if that employee is themself", (passTheTestCallback) => {
+    const dummyEmployees = EMPLOYEES;
+    service.getAllEmployeesWithInterest("jdo", "123")
+      .subscribe((employees: Employee[]) => {
+          expect(employees.length).toBe(0);
+          passTheTestCallback();
+        }
+      );
+    const req = httpMock.expectOne('/api/employees');
+    expect(req.request.method).toBe('GET');
+    req.flush(dummyEmployees);
+  })
 });

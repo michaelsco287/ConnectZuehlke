@@ -1,8 +1,9 @@
-<div *ngIf="employee$ | async as employee">
+<ng-container *ngIf="employee$ | async as employee">
   <h1 id="name-title">{{employee.firstName + " " + employee.lastName}}</h1>
   <ul id="interests-list">
     <li *ngFor="let interest of INTERESTS">
-      {{ interest.name }}
+      <a matLine [routerLink]="[interest.id]">{{ interest.name }}</a>
     </li>
   </ul>
-</div>
+  <h2>{{currentUrl}}</h2>
+</ng-container>

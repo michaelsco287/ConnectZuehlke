@@ -7,12 +7,14 @@ import {EmployeeDetailComponent} from './employee-detail/employee-detail.compone
 import {MapComponent} from './map/map.component';
 import {CustomerListComponent} from './customer-list/customer-list.component';
 import {EmployeeInterestsComponent} from "./employee-interests/employee-interests.component";
+import {InterestDetailComponent} from "./employee-interests/interest-detail/interest-detail.component";
 
 const routes: Routes = [
   {path: 'employees', component: EmployeeListComponent},
   {path: 'customers', component: CustomerListComponent},
   {path: 'employee/:code', component: EmployeeDetailComponent},
   {path: 'employee-interests/:code', component: EmployeeInterestsComponent},
+  {path: 'employee-interests/:code/:interestId', component: InterestDetailComponent},
   {path: 'welcome', component: HackathonHeadlineComponent},
   {path: 'map', component: MapComponent},
 

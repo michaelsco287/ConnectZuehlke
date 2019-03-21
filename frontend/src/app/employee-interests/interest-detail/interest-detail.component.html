@@ -1,3 +1,10 @@
-<p>
-  interest-detail works!
-</p>
+<div *ngIf="employees$ | async as employees">
+  <ul id="interested-employees-list">
+    <li *ngFor="let employee of employees">
+      {{employee.firstName}} {{employee.lastName}}
+    </li>
+  </ul>
+</div>
+<div>
+  Twitter component
+</div>

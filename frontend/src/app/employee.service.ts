@@ -1,6 +1,6 @@
 import {Injectable} from '@angular/core';
 import {Observable, of} from 'rxjs';
-import {catchError} from 'rxjs/operators';
+import {catchError, switchMap} from 'rxjs/operators';
 import {HttpClient} from '@angular/common/http';
 import {Employee} from './domain/Employee';
 
@@ -18,6 +18,16 @@ export class EmployeeService {
 
   }
 
+  public getAllEmployeesWithInterest(employeeCode: string, interestId: string): Observable<Employee[]> {
+    return this.http
+      .get<Employee[]>('/api/employees')
+      .pipe(
+        switchMap((employees: Employee[]) => of(employees.filter(employee => employee.code != employeeCode && employee.interests.map(interest => interest.id).includes(interestId)))),
+        catchError(this.handleError('getAllEmployeesWithInterest', []))
+      );
+  }
+
+  // employees => employees.filter(employee => employee.interests.map(interest => interest.id).includes(interestId))
   /**
    * Handle Http operation that failed.
    * Let the app continue.
