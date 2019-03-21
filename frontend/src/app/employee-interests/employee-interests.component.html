@@ -1,0 +1,6 @@
+<h1>{{employee.firstName + " " + employee.lastName}}</h1>
+<ul id="interests-list">
+  <li *ngFor="let interest of employee.interests">
+    {{ interest.name }}
+  </li>
+</ul>
