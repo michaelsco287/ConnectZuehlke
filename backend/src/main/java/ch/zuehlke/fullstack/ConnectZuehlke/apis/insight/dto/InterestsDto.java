@@ -4,12 +4,23 @@ import ch.zuehlke.fullstack.ConnectZuehlke.domain.Interests;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+import java.util.Map;
+
 @JsonIgnoreProperties
 public class InterestsDto {
-    @JsonProperty("Name")
     private String name;
-    @JsonProperty("Id")
     private String id;
+
+
+    @JsonProperty("Name")
+    private void unpackNested(Map<String,Object> interests) {
+        this.name = (String)interests.get("Name");
+    }
+
+    @JsonProperty("Id")
+    private void unpackNested2(Map<String,Object> interests) {
+        this.name = (String)interests.get("Id");
+    }
 
     public InterestsDto(String name, String id){
         this.name = name;
