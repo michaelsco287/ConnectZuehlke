@@ -17,7 +17,7 @@ import static org.springframework.http.HttpMethod.GET;
 
 @Service
 @Profile({"prod", "staging"})
-public class InsightEmployeeServiceRemote implements InsightEmployeeService {
+public class InsightEmployeeServiceRemote implements InsightEmployeeFetchService {
     private final RestTemplate insightRestTemplate;
 
 
