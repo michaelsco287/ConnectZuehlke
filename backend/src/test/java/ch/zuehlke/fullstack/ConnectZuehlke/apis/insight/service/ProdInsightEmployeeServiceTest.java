@@ -15,7 +15,7 @@ import static org.junit.Assert.assertTrue;
 public class ProdInsightEmployeeServiceTest {
 
     @Autowired
-    private InsightEmployeeService employeeService;
+    private InsightEmployeeFetchService employeeService;
 
     @Test
     public void testDefaultProfileReturnsMockedInsightEmployeeService() {

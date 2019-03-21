@@ -1,6 +1,7 @@
 package ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service;
 
 import ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.dto.InterestsDto;
+import ch.zuehlke.fullstack.ConnectZuehlke.common.exceptionHandling.ResourceNotFoundException;
 import org.junit.Test;
 import org.mockito.ArgumentCaptor;
 import org.springframework.core.ParameterizedTypeReference;
@@ -33,6 +34,16 @@ public class ProdInsightInterestServiceTest {
         verify(mock).exchange(code.capture(), any(HttpMethod.class), any(), any(ParameterizedTypeReference.class));
 
         assertEquals(expectedCode, code.getValue());
+    }
+
+    @Test(expected = ResourceNotFoundException.class)
+    public void callingWithInvalidCodeThrowsResourceNotFoundException(){
+        RestTemplate mock = mock(RestTemplate.class);
+        ResponseEntity<List<InterestsDto>> mockResponse = new ResponseEntity<>(HttpStatus.NOT_FOUND);
+        when(mock.exchange(anyString(), any(HttpMethod.class), any(), any(ParameterizedTypeReference.class))).thenReturn(mockResponse);
+        InsightInterestsService service = new InsightInterestsServiceRemote(mock);
+        service.getInterests("doesNotExist");
+
     }
 
 }
