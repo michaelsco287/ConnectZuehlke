@@ -1,9 +1,10 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ConnectZuehlkeApplication (mock)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-    <module name="ch.zuehlke.fullstack.backend.main" />
+    <module name="backend_main" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="ch.zuehlke.fullstack.ConnectZuehlke.ConnectZuehlkeApplication" />
     <option name="ACTIVE_PROFILES" value="default" />
     <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="false" />
     <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
     <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
     <method v="2">
