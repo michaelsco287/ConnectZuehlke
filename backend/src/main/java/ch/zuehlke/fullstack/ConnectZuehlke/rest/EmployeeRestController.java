@@ -13,9 +13,9 @@ import java.util.List;
 
 @RestController
 public class EmployeeRestController {
-    private final InsightEmployeeFetchService employeeService;
+    private final InsightEmployeeService employeeService;
 
-    public EmployeeRestController(InsightEmployeeFetchService employeeService) {
+    public EmployeeRestController(InsightEmployeeService employeeService) {
         this.employeeService = employeeService;
     }
 
