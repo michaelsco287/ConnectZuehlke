@@ -12,7 +12,7 @@ import {switchMap} from "rxjs/operators";
   styleUrls: ['./interest-detail.component.scss']
 })
 export class InterestDetailComponent implements OnInit {
-  private employees$: Observable<Employee[]>;
+  public employees$: Observable<Employee[]>;
   private interest$: Observable<Interest>;
 
   constructor(
