@@ -24,7 +24,6 @@ cache:
 before_script:
 - ./gradlew npm_install -g @angular/cli
 script:
-- ./gradlew :frontend:lint
 - ./gradlew :frontend:test
 - ./gradlew :backend:test
 - ./gradlew :backend:bootJar
