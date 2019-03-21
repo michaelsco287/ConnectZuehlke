@@ -54,7 +54,7 @@ describe('EmployeeInterestsComponent', () => {
       tick(400);
       fixture.detectChanges();
       const compiled = fixture.debugElement.nativeElement;
-      let listResult = compiled.querySelectorAll('#interests-list li');
+      let listResult = compiled.querySelectorAll('#interests-list mat-list-item');
       expect(listResult.length).toEqual(INTERESTS.length)
     })
   })

@@ -4,6 +4,7 @@ import {EmployeeService} from "../employee.service";
 import {Observable} from "rxjs";
 import {ActivatedRoute, ParamMap} from "@angular/router";
 import {switchMap} from "rxjs/operators";
+import {Interest} from "../domain/Interest";
 
 @Component({
   selector: 'employee-interests',
@@ -12,6 +13,7 @@ import {switchMap} from "rxjs/operators";
 })
 export class EmployeeInterestsComponent implements OnInit {
   employee$: Observable<Employee>;
+  INTERESTS: Interest[] = [{name: "Testing", id: 0}, {name: "iOS", id: 1}];
 
   constructor(
     private route: ActivatedRoute,
