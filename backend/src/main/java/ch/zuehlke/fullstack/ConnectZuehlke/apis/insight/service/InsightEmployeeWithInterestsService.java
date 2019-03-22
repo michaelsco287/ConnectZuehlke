@@ -33,7 +33,7 @@ public class InsightEmployeeWithInterestsService implements InsightEmployeeServi
 
     @Override
     public byte[] getEmployeePicture(int id) throws IOException {
-        return new byte[0];
+        return employeeServiceRemote.getEmployeePicture(id);
     }
 
     @Override

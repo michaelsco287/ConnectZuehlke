@@ -20,6 +20,7 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {
   MatButtonModule,
   MatCardModule,
+  MatExpansionModule,
   MatGridListModule,
   MatIconModule,
   MatInputModule,
@@ -43,6 +44,7 @@ import {ErrorRequestInterceptor} from './common/error-request-interceptor';
 import {EmployeeInterestsComponent} from './employee-interests/employee-interests.component';
 import {InterestDetailComponent} from './employee-interests/interest-detail/interest-detail.component';
 import {FullnamePipe} from './fullname.pipe';
+import {InterestnamePipe} from './interestname.pipe';
 
 
 // For more icons, please checkout https://fontawesome.com/icons?d=gallery
@@ -69,7 +71,8 @@ library.add(faAngleRight);
     CustomerComponent,
     EmployeeInterestsComponent,
     InterestDetailComponent,
-    FullnamePipe
+    FullnamePipe,
+    InterestnamePipe
   ],
   imports: [
     BrowserModule,
@@ -92,6 +95,7 @@ library.add(faAngleRight);
     MatSidenavModule,
     MatListModule,
     MatGridListModule,
+    MatExpansionModule,
     AgmCoreModule.forRoot({apiKey: 'AIzaSyBrgp24CvFV3M0PZGByVDVEG0qn56k8Y-g'})
   ],
   providers: [

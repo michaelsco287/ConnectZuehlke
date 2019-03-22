@@ -5,7 +5,7 @@ import {RouterTestingModule} from '@angular/router/testing';
 import {EmployeeService} from '../employee.service';
 import {EmployeeServiceMock} from '../employee-list/employee.service-mock';
 import {LazyLoadImageModule} from "ng-lazyload-image";
-import {MatCardModule} from "@angular/material";
+import {MatCardModule, MatExpansionModule, MatListModule} from "@angular/material";
 import {FullnamePipe} from "../fullname.pipe";
 
 describe('EmployeeDetailComponent', () => {
@@ -17,6 +17,8 @@ describe('EmployeeDetailComponent', () => {
       imports: [
         RouterTestingModule,
         LazyLoadImageModule,
+        MatExpansionModule,
+        MatListModule,
         MatCardModule
       ],
       declarations: [EmployeeDetailComponent, FullnamePipe],

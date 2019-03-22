@@ -14,9 +14,28 @@
       <p><label>Id: </label>{{ employee.id }}</p>
     </mat-card-content>
 
-    <mat-card-actions>
-      <button mat-button [routerLink]="['interests']">INTERESTS</button>
-    </mat-card-actions>
+    <mat-card-footer>
+      <mat-expansion-panel>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+            Interests
+          </mat-panel-title>
+          <mat-panel-description>
+            Find out what {{employee.firstName}} likes
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+
+        <mat-list>
+          <p *ngIf="employee.interests.length === 0">Nothing</p>
+          <mat-list-item *ngFor="let interest of employee.interests" [routerLink]="[interest.id]">
+            {{interest.name}}
+          </mat-list-item>
+        </mat-list>
+      </mat-expansion-panel>
+    </mat-card-footer>
+    <!--<mat-card-actions>-->
+    <!--<button mat-button [routerLink]="['interests']">INTERESTS</button>-->
+    <!--</mat-card-actions>-->
   </mat-card>
 
 </div>
