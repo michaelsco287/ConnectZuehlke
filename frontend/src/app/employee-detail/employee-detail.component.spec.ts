@@ -7,6 +7,7 @@ import {EmployeeServiceMock} from '../employee-list/employee.service-mock';
 import {LazyLoadImageModule} from "ng-lazyload-image";
 import {MatCardModule, MatExpansionModule, MatListModule} from "@angular/material";
 import {FullnamePipe} from "../fullname.pipe";
+import {InterestnamePipe} from "../interestname.pipe";
 
 describe('EmployeeDetailComponent', () => {
   let component: EmployeeDetailComponent;
@@ -21,7 +22,7 @@ describe('EmployeeDetailComponent', () => {
         MatListModule,
         MatCardModule
       ],
-      declarations: [EmployeeDetailComponent, FullnamePipe],
+      declarations: [EmployeeDetailComponent, FullnamePipe, InterestnamePipe],
       providers: [
         {provide: EmployeeService, useClass: EmployeeServiceMock}
       ]
