@@ -1,11 +1,11 @@
 <div class="page-container" *ngIf="employees$ | async as employees">
-  <h1 *ngIf="interestName$ | async as interestName;">{{interestName}}</h1>
+  <h1>{{employees | interestname:interestId}}</h1>
   <mat-divider></mat-divider>
   <h2>Colleagues sharing this interest</h2>
   <p *ngIf="employees.length === 0">No matching employees</p>
-  <mat-grid-list id="interested-employees-list" cols="4" rowHeight="100px">
+  <mat-grid-list id="interested-employees-list" cols="4" rowHeight="150px">
     <mat-grid-tile *ngFor="let employee of employees">
-      <mat-card>
+      <mat-card style="width: 200px; margin:10px;">
         <mat-card-header>
           <img matCardAvatar
                defaultImage="assets/demo.jpg" lazyLoad="/api/employee/{{employee.id}}/picture"

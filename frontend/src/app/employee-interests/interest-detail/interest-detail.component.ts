@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {Observable, of} from "rxjs";
+import {Observable} from "rxjs";
 import {Employee} from "../../domain/Employee";
 import {ActivatedRoute, ParamMap} from "@angular/router";
 import {EmployeeService} from "../../employee.service";
@@ -12,7 +12,7 @@ import {switchMap} from "rxjs/operators";
 })
 export class InterestDetailComponent implements OnInit {
   public employees$: Observable<Employee[]>;
-  public interestName$: Observable<string>;
+  public interestId: string = "";
 
   constructor(
     private route: ActivatedRoute,
@@ -23,10 +23,8 @@ export class InterestDetailComponent implements OnInit {
   ngOnInit() {
     this.employees$ = this.route.paramMap.pipe(
       switchMap((params: ParamMap) => {
-        const interestId = params.get("interestId");
-        const employees = this.service.getAllEmployeesWithInterest(params.get("code"), interestId);
-        this.interestName$ = of(employees[0].interests.find(interest => interest.id == interestId).name);
-        return employees;
+        this.interestId = params.get("interestId");
+        return this.service.getAllEmployeesWithInterest(params.get("code"), this.interestId);
       })
     )
   }
