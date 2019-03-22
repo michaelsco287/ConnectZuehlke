@@ -6,6 +6,8 @@ import {EmployeeService} from "../../employee.service";
 import {Interest} from "../../domain/Interest";
 import {Employee} from "../../domain/Employee";
 import {Observable, of} from "rxjs";
+import {MatCardModule, MatDividerModule, MatGridListModule} from "@angular/material";
+import {LazyLoadImageModule} from "ng-lazyload-image";
 
 describe('InterestDetailComponent', () => {
   let component: InterestDetailComponent;
@@ -15,6 +17,10 @@ describe('InterestDetailComponent', () => {
     TestBed.configureTestingModule({
       imports: [
         RouterTestingModule,
+        MatDividerModule,
+        LazyLoadImageModule,
+        MatCardModule,
+        MatGridListModule
       ],
       declarations: [InterestDetailComponent],
       providers: [

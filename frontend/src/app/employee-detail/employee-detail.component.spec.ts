@@ -4,6 +4,8 @@ import {EmployeeDetailComponent} from './employee-detail.component';
 import {RouterTestingModule} from '@angular/router/testing';
 import {EmployeeService} from '../employee.service';
 import {EmployeeServiceMock} from '../employee-list/employee.service-mock';
+import {LazyLoadImageModule} from "ng-lazyload-image";
+import {MatCardModule} from "@angular/material";
 
 describe('EmployeeDetailComponent', () => {
   let component: EmployeeDetailComponent;
@@ -13,6 +15,8 @@ describe('EmployeeDetailComponent', () => {
     TestBed.configureTestingModule({
       imports: [
         RouterTestingModule,
+        LazyLoadImageModule,
+        MatCardModule
       ],
       declarations: [EmployeeDetailComponent],
       providers: [
