@@ -11,21 +11,13 @@ public class InterestsDto {
     private String name;
     private String id;
 
-
-    @JsonProperty("Name")
-    private void unpackNested(Map<String,Object> interests) {
-        this.name = (String)interests.get("Name");
+    @JsonProperty("Skill")
+    private void unpack(Map<String, Object> skill){
+        this.name = (String) skill.get("Name");
+        Integer integerId = (Integer) skill.get("Id");
+        this.id = integerId.toString();
     }
 
-    @JsonProperty("Id")
-    private void unpackNested2(Map<String,Object> interests) {
-        this.name = (String)interests.get("Id");
-    }
-
-    public InterestsDto(String name, String id){
-        this.name = name;
-        this.id = id;
-    }
     public Interests toInterests(){
         return new Interests(getName(), getId());
     }
@@ -36,5 +28,13 @@ public class InterestsDto {
 
     private String getId() {
         return this.id;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setId(String id) {
+        this.id = id;
     }
 }

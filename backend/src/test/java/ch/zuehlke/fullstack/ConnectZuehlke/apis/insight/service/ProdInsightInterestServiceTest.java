@@ -23,7 +23,10 @@ public class ProdInsightInterestServiceTest {
         ArgumentCaptor<String> code = ArgumentCaptor.forClass(String.class);
         RestTemplate mock = mock(RestTemplate.class);
         List<InterestsDto> listInterests = new ArrayList<>();
-        listInterests.add(new InterestsDto("PowerPuff Girls", "1"));
+        InterestsDto interestsDto = new InterestsDto();
+        interestsDto.setId("1");
+        interestsDto.setName("PowerPuff Girls");
+        listInterests.add(interestsDto);
         ResponseEntity<List<InterestsDto>> mockResponse = new ResponseEntity<>(listInterests, HttpStatus.OK);
         when(mock.exchange(anyString(), any(HttpMethod.class), any(), any(ParameterizedTypeReference.class))).thenReturn(mockResponse);
         InsightInterestsService service = new InsightInterestsServiceRemote(mock);
