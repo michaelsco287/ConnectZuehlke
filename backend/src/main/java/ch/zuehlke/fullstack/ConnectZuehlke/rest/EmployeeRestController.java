@@ -2,6 +2,7 @@ package ch.zuehlke.fullstack.ConnectZuehlke.rest;
 
 import ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service.InsightEmployeeFetchService;
 import ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service.InsightEmployeeService;
+import ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service.InsightEmployeeWithInterestsService;
 import ch.zuehlke.fullstack.ConnectZuehlke.domain.Employee;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -13,9 +14,9 @@ import java.util.List;
 
 @RestController
 public class EmployeeRestController {
-    private final InsightEmployeeFetchService employeeService;
+    private final InsightEmployeeService employeeService;
 
-    public EmployeeRestController(InsightEmployeeFetchService employeeService) {
+    public EmployeeRestController(InsightEmployeeService employeeService) {
         this.employeeService = employeeService;
     }
 

@@ -2,6 +2,7 @@ package ch.zuehlke.fullstack.ConnectZuehlke.rest;
 
 
 import ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service.InsightCustomerService;
+import ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service.InsightCustomerServiceRemote;
 import ch.zuehlke.fullstack.ConnectZuehlke.domain.Customer;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
