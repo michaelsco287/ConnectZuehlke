@@ -4,14 +4,18 @@
     "lastName": "Häußler",
     "id": 186821,
     "code": "aler",
-    "interests": []
+    "interests": [],
+    "title": "Expert Requirements Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Benedikt",
     "lastName": "Reuter",
     "id": 186659,
     "code": "bere",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Manuel",
@@ -51,14 +55,18 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Hans-Ulrich",
     "lastName": "Eckhard",
     "id": 176446,
     "code": "huec",
-    "interests": []
+    "interests": [],
+    "title": "Expert Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "David",
@@ -82,21 +90,27 @@
         "name": "Software Craftsmanship",
         "id": "705"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Caroline",
     "lastName": "Asschenfeldt",
     "id": 186692,
     "code": "caas",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Lukas",
     "lastName": "Eckert",
     "id": 176529,
     "code": "luec",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Stefan",
@@ -148,28 +162,36 @@
         "name": "Robotics",
         "id": "1958"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Sergej",
     "lastName": "Zuyev",
     "id": 186842,
     "code": "sezu",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Eschborn"
   },
   {
     "firstName": "Adrian",
     "lastName": "Fernandez Vazquez",
     "id": 176554,
     "code": "feva",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "München"
   },
   {
     "firstName": "Yash",
     "lastName": "Kalapi",
     "id": 176563,
     "code": "yaka",
-    "interests": []
+    "interests": [],
+    "title": "Professional Systems Engineer",
+    "location": "München"
   },
   {
     "firstName": "Johannes",
@@ -181,49 +203,63 @@
         "name": "Lean and agile organizations",
         "id": "1647"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "München"
   },
   {
     "firstName": "Frank",
     "lastName": "Pilhofer",
     "id": 186629,
     "code": "pif",
-    "interests": []
+    "interests": [],
+    "title": "Lead Engineer",
+    "location": "München"
   },
   {
     "firstName": "Simone",
     "lastName": "Giehl",
     "id": 186878,
     "code": "sigl",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Eschborn"
   },
   {
     "firstName": "Hendrik",
     "lastName": "Westermayer",
     "id": 176548,
     "code": "hewe",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Michael",
     "lastName": "Ikemann",
     "id": 176564,
     "code": "ikem",
-    "interests": []
+    "interests": [],
+    "title": "Lead Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Martin",
     "lastName": "Kutz",
     "id": 176585,
     "code": "mku",
-    "interests": []
+    "interests": [],
+    "title": "Lead Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Schlungs",
     "lastName": "Katharina",
     "id": 186713,
     "code": "kats",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Yury",
@@ -271,7 +307,9 @@
         "name": "Google Cloud Platform (GCP)",
         "id": "23331"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Christoph",
@@ -299,21 +337,27 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Sergej",
     "lastName": "Tihonov",
     "id": 186796,
     "code": "seti",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Eugen",
     "lastName": "Brazun",
     "id": 186645,
     "code": "ebra",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Marcel",
@@ -377,21 +421,27 @@
         "name": ".NET Core",
         "id": "22803"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Mirko",
     "lastName": "Lorenz",
     "id": 186653,
     "code": "milo",
-    "interests": []
+    "interests": [],
+    "title": "Lead Business Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Michael",
     "lastName": "Binzer",
     "id": 186839,
     "code": "mibi",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Eschborn"
   },
   {
     "firstName": "Pedro",
@@ -411,21 +461,27 @@
         "name": "Data Visualization",
         "id": "1510"
       }
-    ]
+    ],
+    "title": "Advanced Business Analyst",
+    "location": "Eschborn"
   },
   {
     "firstName": "Maria",
     "lastName": "Selzer",
     "id": 186620,
     "code": "mase",
-    "interests": []
+    "interests": [],
+    "title": "Project Manager",
+    "location": "München"
   },
   {
     "firstName": "Lukas",
     "lastName": "Görlach",
     "id": 176421,
     "code": "lugo",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Mikhail",
@@ -485,7 +541,9 @@
         "name": "Python",
         "id": "96"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Cem Philipp",
@@ -581,7 +639,9 @@
         "name": "ReactJS",
         "id": "1585"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Simon",
@@ -625,21 +685,27 @@
         "name": "Smart Contracts",
         "id": "12689"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Frank",
     "lastName": "Ehlers",
     "id": 186619,
     "code": "frae",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Patrick",
     "lastName": "Liedtke",
     "id": 186826,
     "code": "pali",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Juri",
@@ -655,14 +721,18 @@
         "name": "Web Development",
         "id": "555"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Franziska",
     "lastName": "Seifert",
     "id": 176466,
     "code": "fras",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Hamburg"
   },
   {
     "firstName": "Jon David",
@@ -686,7 +756,9 @@
         "name": "C",
         "id": "1245"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Michael",
@@ -790,7 +862,9 @@
         "name": "Docker",
         "id": "898"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Pierre",
@@ -882,7 +956,9 @@
         "name": "Banking",
         "id": "795"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Marcel",
@@ -922,35 +998,45 @@
         "name": "IoT",
         "id": "523"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Lotte",
     "lastName": "Steenbrink",
     "id": 186756,
     "code": "lonk",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Oleksandr",
     "lastName": "Shabelnyk",
     "id": 176432,
     "code": "olsh",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Anela",
     "lastName": "Osmanovic",
     "id": 176380,
     "code": "osan",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Paul",
     "lastName": "Korecky",
     "id": 175850,
     "code": "pako",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Patrick",
@@ -998,7 +1084,9 @@
         "name": "Yocto",
         "id": "1587"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Paul",
@@ -1030,7 +1118,9 @@
         "name": "Data Science",
         "id": "1175"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Philipp",
@@ -1098,7 +1188,9 @@
         "name": "Linux",
         "id": "181"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Manuel",
@@ -1134,7 +1226,9 @@
         "name": "Python",
         "id": "96"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Maximilian",
@@ -1158,14 +1252,18 @@
         "name": "System Integration & Certification",
         "id": "1688"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Felix",
     "lastName": "Lübbe",
     "id": 175918,
     "code": "felu",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "David",
@@ -1245,7 +1343,9 @@
         "name": "Medical Imaging",
         "id": "1784"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Alexander",
@@ -1305,7 +1405,9 @@
         "name": "C++",
         "id": "91"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Oliver",
@@ -1337,7 +1439,9 @@
         "name": "Electronics Hardware",
         "id": "483"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Vlad",
@@ -1353,7 +1457,9 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Michael",
@@ -1405,7 +1511,9 @@
         "name": "System Architecture",
         "id": "500"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Leonhardt",
@@ -1441,35 +1549,45 @@
         "name": "PHP",
         "id": "95"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Bruno",
     "lastName": "Maglica",
     "id": 186865,
     "code": "brma",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Wien"
   },
   {
     "firstName": "Martin",
     "lastName": "Kernjak",
     "id": 186864,
     "code": "kema",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Wien"
   },
   {
     "firstName": "Sebastian",
     "lastName": "Szuszkiewicz",
     "id": 186809,
     "code": "sesz",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Johannes",
     "lastName": "Riedmann",
     "id": 176413,
     "code": "jori",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Lukas",
@@ -1533,7 +1651,9 @@
         "name": "Linux",
         "id": "181"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Maurice",
@@ -1549,7 +1669,9 @@
         "name": "TLS/SSL",
         "id": "1718"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Martin",
@@ -1573,7 +1695,9 @@
         "name": "IoT",
         "id": "523"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Johannes",
@@ -1597,7 +1721,9 @@
         "name": "ASP.NET",
         "id": "27"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Michael",
@@ -1649,21 +1775,27 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Thomas",
     "lastName": "Kaufmann",
     "id": 176459,
     "code": "kath",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Aleksandar",
     "lastName": "Kojic",
     "id": 186727,
     "code": "koal",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Milos",
@@ -1703,7 +1835,9 @@
         "name": "JavaScript",
         "id": "89"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Jeremias",
@@ -1735,7 +1869,9 @@
         "name": "Deep Learning",
         "id": "22806"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Werner",
@@ -1783,42 +1919,54 @@
         "name": "Red Hat Linux",
         "id": "1055"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Dmytro",
     "lastName": "Moiseiuk",
     "id": 186874,
     "code": "dmmo",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Wien"
   },
   {
     "firstName": "Christian",
     "lastName": "Mayer",
     "id": 656,
     "code": "may",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "Wien"
   },
   {
     "firstName": "Ichrak",
     "lastName": "Ketata",
     "id": 175001,
     "code": "icke",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Lukas",
     "lastName": "Herret",
     "id": 1566,
     "code": "luhe",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Philipp",
     "lastName": "Schwarzmaier",
     "id": 176546,
     "code": "phsc",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Patrick",
@@ -1858,14 +2006,18 @@
         "name": "Google Cloud Platform (GCP)",
         "id": "23331"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Alicia",
     "lastName": "Lobo",
     "id": 176438,
     "code": "allo",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Samirah",
@@ -1881,7 +2033,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Alex",
@@ -1905,7 +2059,9 @@
         "name": "Angular",
         "id": "2487"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Harald",
@@ -1945,21 +2101,27 @@
         "name": "NoEstimates",
         "id": "43576"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Edgar",
     "lastName": "Holleis",
     "id": 1335,
     "code": "edho",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Ewald",
     "lastName": "Peiszer",
     "id": 1378,
     "code": "ewpe",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Magnus",
@@ -2019,14 +2181,18 @@
         "name": "Eclipse",
         "id": "144"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Vyacheslav",
     "lastName": "Bereza",
     "id": 176433,
     "code": "vybe",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Andrija",
@@ -2038,28 +2204,36 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Maya",
     "lastName": "Vinson",
     "id": 186635,
     "code": "mavi",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Usability Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Lisa-Maria",
     "lastName": "Mayrhofer",
     "id": 176599,
     "code": "mali",
-    "interests": []
+    "interests": [],
+    "title": "Professional Business Analyst",
+    "location": "Wien"
   },
   {
     "firstName": "Nenad",
     "lastName": "Steric",
     "id": 175851,
     "code": "nest",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Klaus",
@@ -2079,7 +2253,9 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Thomas",
@@ -2139,28 +2315,36 @@
         "name": "Deep Learning",
         "id": "22806"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Paul",
     "lastName": "James",
     "id": 176434,
     "code": "japa",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Wien"
   },
   {
     "firstName": "Jean-Marc",
     "lastName": "Hengen",
     "id": 176553,
     "code": "hejm",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Alexej",
     "lastName": "Stolipin",
     "id": 186801,
     "code": "stol",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Attila",
@@ -2196,14 +2380,18 @@
         "name": "Microsoft SQL Server",
         "id": "576"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Julia",
     "lastName": "Weber",
     "id": 186781,
     "code": "juwe",
-    "interests": []
+    "interests": [],
+    "title": "Professional Business Analyst",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Stephan",
@@ -2231,14 +2419,18 @@
         "name": "System On-Chip-Designs-(SOC)",
         "id": "1675"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Alexey",
     "lastName": "Gromov",
     "id": 186862,
     "code": "algr",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Hannover"
   },
   {
     "firstName": "Ulf-Erik",
@@ -2290,14 +2482,18 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Marc",
     "lastName": "Asanoski",
     "id": 186840,
     "code": "maas",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Hannover"
   },
   {
     "firstName": "Björn",
@@ -2369,7 +2565,9 @@
         "name": "Microsoft Sharepoint",
         "id": "406"
       }
-    ]
+    ],
+    "title": null,
+    "location": "Hamburg"
   },
   {
     "firstName": "Jan",
@@ -2437,7 +2635,9 @@
         "name": "Unix",
         "id": "188"
       }
-    ]
+    ],
+    "title": "Expert DevOps Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Alexander",
@@ -2481,7 +2681,9 @@
         "name": "Universal Windows Platform",
         "id": "1470"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Oleg",
@@ -2505,14 +2707,18 @@
         "name": "Functional Programming",
         "id": "620"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Mohsen",
     "lastName": "Ramezanpoor",
     "id": 175357,
     "code": "mora",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "London"
   },
   {
     "firstName": "Niklas",
@@ -2592,14 +2798,18 @@
         "name": "Sockets",
         "id": "2056"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Yue",
     "lastName": "Wang",
     "id": 175820,
     "code": "yuwa",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "London"
   },
   {
     "firstName": "Sylvain",
@@ -2699,49 +2909,63 @@
         "name": "Artificial Intelligence",
         "id": "826"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "William",
     "lastName": "Do",
     "id": 176371,
     "code": "wido",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Rik",
     "lastName": "Howard",
     "id": 175799,
     "code": "riho",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Quintin",
     "lastName": "Balsdon",
     "id": 176349,
     "code": "quba",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Felix",
     "lastName": "Storm-Jensen",
     "id": 175888,
     "code": "fest",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Michael",
     "lastName": "Scott",
     "id": 176486,
     "code": "msco",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Sam",
     "lastName": "White",
     "id": 176494,
     "code": "sawh",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Alasdair",
@@ -2781,14 +3005,18 @@
         "name": "Haskell",
         "id": "121"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Nickson",
     "lastName": "Thanda",
     "id": 176497,
     "code": "nith",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Robert",
@@ -2828,7 +3056,9 @@
         "name": "ReactJS",
         "id": "1585"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Alexander",
@@ -2904,14 +3134,18 @@
         "name": "Extreme Programming",
         "id": "316"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "London"
   },
   {
     "firstName": "Andrew",
     "lastName": "Stone",
     "id": 186719,
     "code": "asto",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "Manchester"
   },
   {
     "firstName": "Nenad",
@@ -2943,7 +3177,9 @@
         "name": "Spring Boot",
         "id": "2460"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milos",
@@ -2967,7 +3203,9 @@
         "name": "Spring",
         "id": "240"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Viktorija",
@@ -3003,7 +3241,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Stevan",
@@ -3031,7 +3271,9 @@
         "name": "Google Firebase",
         "id": "43714"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Nemanja",
@@ -3071,7 +3313,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Stefan",
@@ -3119,7 +3363,9 @@
         "name": "Spring Boot",
         "id": "2460"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Marko",
@@ -3175,7 +3421,9 @@
         "name": "Zühlke Sofia",
         "id": "43562"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Marko",
@@ -3263,14 +3511,18 @@
         "name": "Domain Driven Design",
         "id": "362"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Branko",
     "lastName": "Tripkovic",
     "id": 176481,
     "code": "btri",
-    "interests": []
+    "interests": [],
+    "title": "Lead Architect",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Zeljko",
@@ -3302,7 +3554,9 @@
         "name": "Android",
         "id": "182"
       }
-    ]
+    ],
+    "title": "Lead Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Jaksa",
@@ -3334,7 +3588,9 @@
         "name": "Site Reliability Engineering",
         "id": "33498"
       }
-    ]
+    ],
+    "title": null,
+    "location": "New Belgrade"
   },
   {
     "firstName": " Igor",
@@ -3358,21 +3614,27 @@
         "name": "System Architecture",
         "id": "500"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Elena",
     "lastName": "Vuceljic",
     "id": 176543,
     "code": "elvu",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Uros",
     "lastName": "Milivojevic",
     "id": 186721,
     "code": "urmi",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "New Belgrade"
   },
   {
     "firstName": "Tamara",
@@ -3404,7 +3666,9 @@
         "name": "iOS",
         "id": "184"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milica",
@@ -3456,7 +3720,9 @@
         "name": "Unix Shell Scripting",
         "id": "987"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Marko",
@@ -3488,14 +3754,18 @@
         "name": "Project Planning",
         "id": "849"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Ugljesa",
     "lastName": "Tomanovic",
     "id": 176578,
     "code": "ugto",
-    "interests": []
+    "interests": [],
+    "title": "Expert Systems Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Branislav",
@@ -3527,63 +3797,81 @@
         "name": "3D Printing",
         "id": "2272"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milan",
     "lastName": "Mirkovic",
     "id": 186734,
     "code": "mmir",
-    "interests": []
+    "interests": [],
+    "title": "Professional Systems Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Amir",
     "lastName": "Faris",
     "id": 186689,
     "code": "amfa",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Nemanja",
     "lastName": "Pantin",
     "id": 176465,
     "code": "nepa",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Nada",
     "lastName": "Telabakovic",
     "id": 175898,
     "code": "nate",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Igor",
     "lastName": "Vurdelja",
     "id": 176593,
     "code": "igvu",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Ivan",
     "lastName": "Blazic",
     "id": 176534,
     "code": "bliv",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Marko",
     "lastName": "Oklobdzija",
     "id": 175833,
     "code": "maok",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milan",
     "lastName": "Radovanovic",
     "id": 175812,
     "code": "mrad",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Dejan",
@@ -3611,7 +3899,9 @@
         "name": "Yocto",
         "id": "1587"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Nikola",
@@ -3639,7 +3929,9 @@
         "name": "Relational Databases",
         "id": "1239"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Visnja",
@@ -3679,14 +3971,31 @@
         "name": "Photography",
         "id": "707"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Dragan",
     "lastName": "Obradovic",
     "id": 186771,
     "code": "drob",
-    "interests": []
+    "interests": [
+      {
+        "name": "Embedded Systems",
+        "id": "486"
+      },
+      {
+        "name": "Embedded Linux",
+        "id": "193"
+      },
+      {
+        "name": "C++",
+        "id": "91"
+      }
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Guido",
@@ -3770,7 +4079,9 @@
         "name": "Release Management",
         "id": "1870"
       }
-    ]
+    ],
+    "title": "Senior Service Manager",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Ilija",
@@ -3846,14 +4157,18 @@
         "name": "Stakeholder Management",
         "id": "1331"
       }
-    ]
+    ],
+    "title": "Expert DevOps Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Andreja",
     "lastName": "Kecan",
     "id": 186857,
     "code": "kean",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "New Belgrade"
   },
   {
     "firstName": "Srdjan",
@@ -3937,21 +4252,27 @@
         "name": "Business Analysis",
         "id": "508"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Vera",
     "lastName": "Milojevic",
     "id": 186695,
     "code": "vemi",
-    "interests": []
+    "interests": [],
+    "title": "Project Manager",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Sofija",
     "lastName": "Doncevski",
     "id": 186712,
     "code": "sodo",
-    "interests": []
+    "interests": [],
+    "title": "Project Manager",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Kristina",
@@ -3967,7 +4288,9 @@
         "name": "Neo4j",
         "id": "2555"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Tijana",
@@ -3995,7 +4318,9 @@
         "name": "Leadership",
         "id": "464"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Michael",
@@ -4019,7 +4344,9 @@
         "name": "Serverless Architectures",
         "id": "33458"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Manchester"
   },
   {
     "firstName": "Stefan",
@@ -4075,7 +4402,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Professional DevOps Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Ana",
@@ -4095,7 +4424,9 @@
         "name": "Quality Assurance",
         "id": "1093"
       }
-    ]
+    ],
+    "title": "Advanced QA Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Jovan",
@@ -4135,7 +4466,9 @@
         "name": "Zühlke Sofia",
         "id": "43562"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Stefan",
@@ -4155,7 +4488,9 @@
         "name": "Virtual Reality",
         "id": "2074"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Suzana",
@@ -4175,7 +4510,9 @@
         "name": "Web Frontend Development",
         "id": "743"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milos",
@@ -4199,7 +4536,9 @@
         "name": "Microsoft Azure",
         "id": "529"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Zlatan",
@@ -4267,14 +4606,18 @@
         "name": "Qt",
         "id": "44"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Dusan",
     "lastName": "Trpkovic",
     "id": 186709,
     "code": "dutr",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Dejan",
@@ -4298,14 +4641,18 @@
         "name": "Testing",
         "id": "361"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Veljko",
     "lastName": "Zrnic",
     "id": 176531,
     "code": "vezr",
-    "interests": []
+    "interests": [],
+    "title": "Lead Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milan",
@@ -4357,7 +4704,9 @@
         "name": "Microsoft Azure",
         "id": "529"
       }
-    ]
+    ],
+    "title": "Lead Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Mladen",
@@ -4401,7 +4750,9 @@
         "name": "Leadership",
         "id": "464"
       }
-    ]
+    ],
+    "title": "Lead Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Nenad",
@@ -4441,7 +4792,9 @@
         "name": "Test Management",
         "id": "329"
       }
-    ]
+    ],
+    "title": "Expert QA Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Aleksandar",
@@ -4477,7 +4830,9 @@
         "name": "Microservices",
         "id": "1748"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milos",
@@ -4549,28 +4904,36 @@
         "name": "Azure CLI",
         "id": "22973"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Victoria",
     "lastName": "Rühland",
     "id": 186657,
     "code": "ruvi",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Johanna",
     "lastName": "Ehses",
     "id": 176474,
     "code": "joeh",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Kateryna",
     "lastName": "Raydun",
     "id": 186834,
     "code": "kara",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Hannover"
   },
   {
     "firstName": "Lena",
@@ -4590,63 +4953,81 @@
         "name": "Human Resource Management",
         "id": "1066"
       }
-    ]
+    ],
+    "title": "Trainee Employer Branding",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marlene",
     "lastName": "Kempter",
     "id": 186769,
     "code": "make",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andrea",
     "lastName": "Reinhardt",
     "id": 186651,
     "code": "anre",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Christian",
     "lastName": "Lohrey",
     "id": 186838,
     "code": "chey",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Niklas",
     "lastName": "Dünnebier",
     "id": 186844,
     "code": "nidu",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Stuttgart"
   },
   {
     "firstName": "Luca",
     "lastName": "von der Brelie",
     "id": 186863,
     "code": "luvb",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Eschborn"
   },
   {
     "firstName": "Felix",
     "lastName": "Küpmann",
     "id": 176112,
     "code": "kufe",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Hannover"
   },
   {
     "firstName": "Dominik",
     "lastName": "Großmann",
     "id": 186896,
     "code": "domg",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Eschborn"
   },
   {
     "firstName": "Jan",
     "lastName": "Wystub",
     "id": 186714,
     "code": "jawy",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Sebastian",
@@ -4718,91 +5099,117 @@
         "name": "WebAssembly",
         "id": "43920"
       }
-    ]
+    ],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Márton Donát",
     "lastName": "Nagy",
     "id": 186661,
     "code": "mana",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "München"
   },
   {
     "firstName": "Johannes",
     "lastName": "Diersing",
     "id": 186749,
     "code": "jodi",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Hannover"
   },
   {
     "firstName": "Jan",
     "lastName": "Hämmelmann",
     "id": 186751,
     "code": "jaha",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Tobias",
     "lastName": "Rogalla",
     "id": 186755,
     "code": "toro",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "München"
   },
   {
     "firstName": "Angela",
     "lastName": "Cifuentes",
     "id": 186806,
     "code": "acif",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "München"
   },
   {
     "firstName": "Niklas",
     "lastName": "Weber",
     "id": 186810,
     "code": "nikw",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Jonas",
     "lastName": "Roming",
     "id": 186609,
     "code": "rojo",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "München"
   },
   {
     "firstName": "Davinder",
     "lastName": "Chandhok",
     "id": 186647,
     "code": "dach",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Hannover"
   },
   {
     "firstName": "Tim",
     "lastName": "Lange",
     "id": 176601,
     "code": "tila",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Eschborn"
   },
   {
     "firstName": "Jens",
     "lastName": "Ilg",
     "id": 186671,
     "code": "jilg",
-    "interests": []
+    "interests": [],
+    "title": "Director Business Consulting",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Diana",
     "lastName": "Kaufmann",
     "id": 175035,
     "code": "kadi",
-    "interests": []
+    "interests": [],
+    "title": "Auszubildende Kauffrau fuer Bueromanagement",
+    "location": "Eschborn"
   },
   {
     "firstName": "Alexandra",
     "lastName": "Kammel",
     "id": 175992,
     "code": "kaal",
-    "interests": []
+    "interests": [],
+    "title": "Auszubildende Kauffrau fuer Bueromanagement",
+    "location": "München"
   },
   {
     "firstName": "Stefan",
@@ -4826,28 +5233,36 @@
         "name": "Data Analytics",
         "id": "1956"
       }
-    ]
+    ],
+    "title": "Business Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Insight ",
     "lastName": "API",
     "id": 186894,
     "code": "tmp_insight_api",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Vivien",
     "lastName": "Nievergelt",
     "id": 186643,
     "code": "vini",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stephan",
     "lastName": "Koch",
     "id": 186663,
     "code": "skoc",
-    "interests": []
+    "interests": [],
+    "title": "Expert Business Analyst",
+    "location": "Singapore"
   },
   {
     "firstName": "Nicholas",
@@ -4903,7 +5318,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": null,
+    "location": "Singapore"
   },
   {
     "firstName": "Raghunath",
@@ -4935,7 +5352,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Janko",
@@ -4971,14 +5390,18 @@
         "name": "Angular",
         "id": "2487"
       }
-    ]
+    ],
+    "title": null,
+    "location": "Singapore"
   },
   {
     "firstName": "Kevin",
     "lastName": "Lin",
     "id": 186600,
     "code": "keli",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Celine",
@@ -4994,21 +5417,27 @@
         "name": "Mobile Development",
         "id": "526"
       }
-    ]
+    ],
+    "title": null,
+    "location": "Singapore"
   },
   {
     "firstName": "Patrick",
     "lastName": "Amsler",
     "id": 186702,
     "code": "paam",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Stan",
     "lastName": "Yu",
     "id": 176442,
     "code": "styu",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Oscar",
@@ -5040,7 +5469,9 @@
         "name": "NoSQL Databases",
         "id": "163"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Jochen",
@@ -5092,14 +5523,18 @@
         "name": "Xamarin",
         "id": "702"
       }
-    ]
+    ],
+    "title": null,
+    "location": "Singapore"
   },
   {
     "firstName": "Florian",
     "lastName": "Besser",
     "id": 176368,
     "code": "flbe",
-    "interests": []
+    "interests": [],
+    "title": "Lead Architect",
+    "location": "Singapore"
   },
   {
     "firstName": "Hiraash",
@@ -5167,21 +5602,27 @@
         "name": "Big Data",
         "id": "367"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Singapore"
   },
   {
     "firstName": "Jawen",
     "lastName": "Voon",
     "id": 186805,
     "code": "javo",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Nathan",
     "lastName": "Khoo",
     "id": 186824,
     "code": "nakh",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Marija",
@@ -5233,7 +5674,9 @@
         "name": "Requirements Engineering",
         "id": "569"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Slobodan",
@@ -5257,7 +5700,9 @@
         "name": "Xamarin.Forms",
         "id": "1661"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Stefan",
@@ -5285,7 +5730,9 @@
         "name": "Assignment@ZDE",
         "id": "54204"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Djordje",
@@ -5305,14 +5752,18 @@
         "name": "WebAssembly",
         "id": "43920"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Sulejman",
     "lastName": "Karisik",
     "id": 176587,
     "code": "sulk",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Olivera",
@@ -5356,7 +5807,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Ognjen",
@@ -5408,7 +5861,9 @@
         "name": "CSS",
         "id": "94"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Nemanja",
@@ -5448,7 +5903,9 @@
         "name": "Assigment@CH",
         "id": "54203"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Bojan",
@@ -5504,7 +5961,9 @@
         "name": "AngularJS",
         "id": "246"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Emilija",
@@ -5540,7 +5999,9 @@
         "name": "JavaScript",
         "id": "89"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Marko",
@@ -5592,7 +6053,9 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Vladimir",
@@ -5624,7 +6087,9 @@
         "name": "Web Frontend Development",
         "id": "743"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Djordje",
@@ -5676,7 +6141,9 @@
         "name": "Amazon Web Services",
         "id": "53"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milenko",
@@ -5724,7 +6191,9 @@
         "name": "Amazon Web Services",
         "id": "53"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "David",
@@ -5788,7 +6257,9 @@
         "name": "Progressive Web Apps",
         "id": "43586"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Petar",
@@ -5808,7 +6279,9 @@
         "name": "Containerization",
         "id": "33495"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Nemanja",
@@ -5824,7 +6297,9 @@
         "name": "Artificial Intelligence",
         "id": "826"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Ognjen",
@@ -6044,7 +6519,9 @@
         "name": "Performance Profiling",
         "id": "1067"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Stefan N.",
@@ -6120,7 +6597,9 @@
         "name": "Progressive Web Apps",
         "id": "43586"
       }
-    ]
+    ],
+    "title": "Trainee",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Marija",
@@ -6136,21 +6615,27 @@
         "name": "Amazon Web Services",
         "id": "53"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Snezana",
     "lastName": "Tanic",
     "id": 176113,
     "code": "stan",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Marko",
     "lastName": "Milivojevic",
     "id": 186723,
     "code": "milm",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "New Belgrade"
   },
   {
     "firstName": "Aleksandra",
@@ -6170,7 +6655,9 @@
         "name": "Agile Coaching",
         "id": "1304"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Singapore"
   },
   {
     "firstName": "Qiyu",
@@ -6194,7 +6681,9 @@
         "name": "Security",
         "id": "355"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Xudong",
@@ -6230,7 +6719,9 @@
         "name": "Apache Spark",
         "id": "1635"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Andreas",
@@ -6282,7 +6773,9 @@
         "name": "Prototyping",
         "id": "374"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Dhanaraj",
@@ -6326,7 +6819,9 @@
         "name": "Business Transformation",
         "id": "806"
       }
-    ]
+    ],
+    "title": "Advanced Business Analyst",
+    "location": "Singapore"
   },
   {
     "firstName": "Felix",
@@ -6342,42 +6837,54 @@
         "name": "Plastics injection moulding",
         "id": "54249"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Benjamin",
     "lastName": "Gruber",
     "id": 186827,
     "code": "grub",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Eschborn"
   },
   {
     "firstName": "Markus",
     "lastName": "Prasser",
     "id": 186830,
     "code": "mapr",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Eschborn"
   },
   {
     "firstName": "Leqiao",
     "lastName": "Peng",
     "id": 186831,
     "code": "lepe",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Eschborn"
   },
   {
     "firstName": "Pak Wai",
     "lastName": "Lau",
     "id": 186711,
     "code": "pwla",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Anilkumar",
     "lastName": "Appukuttan",
     "id": 186889,
     "code": "anap",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Hong Kong"
   },
   {
     "firstName": "Alan",
@@ -6445,7 +6952,9 @@
         "name": "Robotics",
         "id": "1958"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Hong Kong"
   },
   {
     "firstName": " Russell",
@@ -6517,7 +7026,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": null
   },
   {
     "firstName": "Huw",
@@ -6549,14 +7060,18 @@
         "name": "Angular",
         "id": "2487"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Mirko",
     "lastName": "Sciachero",
     "id": 186853,
     "code": "mirs",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Hong Kong"
   },
   {
     "firstName": "Carl",
@@ -6592,7 +7107,9 @@
         "name": "Business Analysis",
         "id": "508"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Kevin",
@@ -6616,7 +7133,9 @@
         "name": "Android",
         "id": "182"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Brian",
@@ -6636,21 +7155,27 @@
         "name": "Android",
         "id": "182"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Reiner",
     "lastName": "De Guzman",
     "id": 186774,
     "code": "redg",
-    "interests": []
+    "interests": [],
+    "title": "Professional Data Scientist",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Dominic",
     "lastName": "Morgan",
     "id": 186764,
     "code": "domo",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Data Scientist",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Karen",
@@ -6670,14 +7195,18 @@
         "name": "Interaction Design",
         "id": "573"
       }
-    ]
+    ],
+    "title": "Professional Usability Engineer",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Manfred",
     "lastName": "Obermüller",
     "id": 186694,
     "code": "obma",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Sascha",
@@ -6717,14 +7246,18 @@
         "name": "Python",
         "id": "96"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Thomas",
     "lastName": "Eicher",
     "id": 186837,
     "code": "tei",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Bern"
   },
   {
     "firstName": "Syuleyman",
@@ -6764,7 +7297,9 @@
         "name": "Algorithms",
         "id": "507"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Sofia"
   },
   {
     "firstName": "Daniel",
@@ -6804,7 +7339,9 @@
         "name": "Java Enterprise Edition",
         "id": "490"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Sofia"
   },
   {
     "firstName": "Pavlin",
@@ -6832,14 +7369,18 @@
         "name": "Spring Boot",
         "id": "2460"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Sofia"
   },
   {
     "firstName": "Martin",
     "lastName": "Tsarev",
     "id": 186622,
     "code": "mats",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Sofia"
   },
   {
     "firstName": "Ivan",
@@ -6867,7 +7408,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Sofia"
   },
   {
     "firstName": "Atanas",
@@ -6995,7 +7538,9 @@
         "name": "German",
         "id": "535"
       }
-    ]
+    ],
+    "title": null,
+    "location": "Sofia"
   },
   {
     "firstName": "Ivan",
@@ -7063,7 +7608,9 @@
         "name": "User Experience Design",
         "id": "715"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Sofia"
   },
   {
     "firstName": "Joschka",
@@ -7083,21 +7630,27 @@
         "name": "Deep Learning",
         "id": "22806"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Tanja",
     "lastName": "Großer",
     "id": 176484,
     "code": "tang",
-    "interests": []
+    "interests": [],
+    "title": "Project Manager",
+    "location": "Hamburg"
   },
   {
     "firstName": "Inga",
     "lastName": "Schlömer",
     "id": 176451,
     "code": "insc",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "Hamburg"
   },
   {
     "firstName": "Lisa",
@@ -7129,21 +7682,27 @@
         "name": "Workshop Moderation",
         "id": "1918"
       }
-    ]
+    ],
+    "title": "Advanced Usability Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Johannes",
     "lastName": "Matejcek",
     "id": 186898,
     "code": "joek",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Hamburg"
   },
   {
     "firstName": "Tobias",
     "lastName": "Hecht",
     "id": 186843,
     "code": "tohe",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Hamburg"
   },
   {
     "firstName": "Felix",
@@ -7215,7 +7774,9 @@
         "name": "CQRS",
         "id": "2135"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Matthias",
@@ -7267,14 +7828,18 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christian",
     "lastName": "Abegg",
     "id": 309,
     "code": "cha",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Mark",
@@ -7378,7 +7943,9 @@
         "name": "Scrum",
         "id": "602"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
@@ -7398,7 +7965,9 @@
         "name": "Architectural Review",
         "id": "1033"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -7498,14 +8067,18 @@
         "name": "Technical Recruiting",
         "id": "752"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christian",
     "lastName": "Kohler",
     "id": 1249,
     "code": "chko",
-    "interests": []
+    "interests": [],
+    "title": "Lead Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Oliver",
@@ -7573,7 +8146,9 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Artsiom",
@@ -7625,7 +8200,9 @@
         "name": ".NET Core",
         "id": "22803"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "David",
@@ -7689,7 +8266,9 @@
         "name": "Domain Driven Design",
         "id": "362"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Peter",
@@ -7741,7 +8320,9 @@
         "name": "Agile Coaching",
         "id": "1304"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Isabelle",
@@ -7765,7 +8346,9 @@
         "name": "Unity",
         "id": "22750"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Florian",
@@ -7785,7 +8368,9 @@
         "name": "PHP",
         "id": "95"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabian",
@@ -7821,7 +8406,9 @@
         "name": "C++",
         "id": "91"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lukas",
@@ -7833,14 +8420,18 @@
         "name": "Docker",
         "id": "898"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Timothy",
     "lastName": "Gediga",
     "id": 175920,
     "code": "tige",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Alex",
@@ -7868,7 +8459,9 @@
         "name": "Program Management",
         "id": "467"
       }
-    ]
+    ],
+    "title": "Project Director",
+    "location": "Schlieren"
   },
   {
     "firstName": "Torulv",
@@ -7908,7 +8501,9 @@
         "name": "Software Engineering",
         "id": "337"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Peter",
@@ -7940,7 +8535,9 @@
         "name": "Management 3.0",
         "id": "1646"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dorota",
@@ -7952,7 +8549,9 @@
         "name": "ADM",
         "id": "1761"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Daniel",
@@ -7968,7 +8567,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dominik",
@@ -8000,7 +8601,9 @@
         "name": "Deep Learning",
         "id": "22806"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabian",
@@ -8020,7 +8623,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Bern"
   },
   {
     "firstName": "Till",
@@ -8040,7 +8645,9 @@
         "name": "Security",
         "id": "355"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Bern"
   },
   {
     "firstName": "Elisa",
@@ -8056,14 +8663,18 @@
         "name": "Product Owner",
         "id": "905"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ruedi",
     "lastName": "Wacker",
     "id": 285,
     "code": "ruw",
-    "interests": []
+    "interests": [],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andreas",
@@ -8099,7 +8710,9 @@
         "name": "Prototyping",
         "id": "374"
       }
-    ]
+    ],
+    "title": "Advanced Requirements Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jacqueline",
@@ -8199,7 +8812,9 @@
         "name": "Industry",
         "id": "1379"
       }
-    ]
+    ],
+    "title": "Principal Consultant UX",
+    "location": "Schlieren"
   },
   {
     "firstName": "Markus",
@@ -8231,7 +8846,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Principal Consultant UX",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stephanie",
@@ -8251,7 +8868,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Principal Consultant UX",
+    "location": "Schlieren"
   },
   {
     "firstName": "Daniel",
@@ -8291,14 +8910,18 @@
         "name": "C#",
         "id": "88"
       }
-    ]
+    ],
+    "title": "Lead Consultant UX",
+    "location": "Bern"
   },
   {
     "firstName": "Andreas",
     "lastName": "Kramer",
     "id": 175853,
     "code": "ankr",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant UX",
+    "location": "Bern"
   },
   {
     "firstName": "Mischa",
@@ -8338,7 +8961,9 @@
         "name": "Usability Engineering",
         "id": "43670"
       }
-    ]
+    ],
+    "title": "Lead Consultant UX",
+    "location": "Schlieren"
   },
   {
     "firstName": "Armin",
@@ -8390,7 +9015,9 @@
         "name": "Artificial Intelligence",
         "id": "826"
       }
-    ]
+    ],
+    "title": "Lead Consultant UX",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabian",
@@ -8414,7 +9041,9 @@
         "name": "Illustration",
         "id": "2038"
       }
-    ]
+    ],
+    "title": "Expert UX Designer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rafael",
@@ -8446,7 +9075,9 @@
         "name": "Prototyping",
         "id": "374"
       }
-    ]
+    ],
+    "title": "Expert UX Designer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andreas",
@@ -8474,7 +9105,9 @@
         "name": "Design Thinking",
         "id": "524"
       }
-    ]
+    ],
+    "title": "Expert UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marika",
@@ -8526,14 +9159,18 @@
         "name": "Product Development",
         "id": "474"
       }
-    ]
+    ],
+    "title": "Expert UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Mayo",
     "lastName": "Todorovic",
     "id": 175325,
     "code": "toma",
-    "interests": []
+    "interests": [],
+    "title": "Expert UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Anna",
@@ -8573,7 +9210,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Expert UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Roman",
@@ -8585,7 +9224,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Expert UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Aaron",
@@ -8625,7 +9266,9 @@
         "name": "Building Automation",
         "id": "1566"
       }
-    ]
+    ],
+    "title": "Expert UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jlona",
@@ -8689,7 +9332,9 @@
         "name": "Design Thinking",
         "id": "524"
       }
-    ]
+    ],
+    "title": "Advanced UX Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Steffen",
@@ -8749,14 +9394,18 @@
         "name": "Financial Markets",
         "id": "766"
       }
-    ]
+    ],
+    "title": "Advanced UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christian",
     "lastName": "Fallegger",
     "id": 176376,
     "code": "chfa",
-    "interests": []
+    "interests": [],
+    "title": "Advanced UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Cyrill",
@@ -8884,7 +9533,9 @@
         "name": "Embedded Systems",
         "id": "486"
       }
-    ]
+    ],
+    "title": "Advanced UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Isabel",
@@ -8920,7 +9571,9 @@
         "name": "Augmented Reality",
         "id": "1573"
       }
-    ]
+    ],
+    "title": "Advanced UX Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Linda Maria",
@@ -8968,14 +9621,18 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Advanced UX Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Klaus-Peter",
     "lastName": "Wichmann",
     "id": 165,
     "code": "wkl",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sandro",
@@ -8987,14 +9644,18 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
     "lastName": "Hediger",
     "id": 1253,
     "code": "mihe",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
@@ -9006,14 +9667,18 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lukas",
     "lastName": "Gätzi",
     "id": 341,
     "code": "gal",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Markus",
@@ -9033,21 +9698,27 @@
         "name": "Safety",
         "id": "1652"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rolf",
     "lastName": "Meier",
     "id": 416,
     "code": "rm",
-    "interests": []
+    "interests": [],
+    "title": "Electronics Layouter",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jürg",
     "lastName": "Ackermann",
     "id": 218,
     "code": "ack",
-    "interests": []
+    "interests": [],
+    "title": "Electronics Layouter",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -9087,7 +9758,9 @@
         "name": "Lean Innovation",
         "id": "1589"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Adrian",
@@ -9107,7 +9780,9 @@
         "name": "Embedded Electronics",
         "id": "43891"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Moritz",
@@ -9135,14 +9810,18 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
     "lastName": "Geissbühler",
     "id": 1450,
     "code": "stge",
-    "interests": []
+    "interests": [],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Roman",
@@ -9190,7 +9869,9 @@
         "name": "Project Planning",
         "id": "849"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Daniel",
@@ -9238,21 +9919,27 @@
         "name": "Artificial Intelligence",
         "id": "826"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rainer",
     "lastName": "Schmidt",
     "id": 409,
     "code": "ras",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Peter",
     "lastName": "Wehrli",
     "id": 455,
     "code": "weh",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Flavio",
@@ -9288,7 +9975,9 @@
         "name": "Software Testing",
         "id": "335"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -9328,7 +10017,9 @@
         "name": "Cloud",
         "id": "43859"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Cédric",
@@ -9356,14 +10047,18 @@
         "name": "Kubernetes",
         "id": "2554"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Bern"
   },
   {
     "firstName": "Jörg",
     "lastName": "Hess",
     "id": 348,
     "code": "hj",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Thomas",
@@ -9395,7 +10090,9 @@
         "name": "Node.js",
         "id": "403"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sascha",
@@ -9411,7 +10108,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andreas",
@@ -9503,7 +10202,9 @@
         "name": "Full-Stack JavaScript",
         "id": "43541"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Theodor",
@@ -9523,7 +10224,9 @@
         "name": "Google Cloud Platform (GCP)",
         "id": "23331"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jonas",
@@ -9551,7 +10254,9 @@
         "name": "Relational Databases",
         "id": "1239"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lukas",
@@ -9603,7 +10308,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Martin",
@@ -9615,7 +10322,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Corinne",
@@ -9655,7 +10364,9 @@
         "name": "Healthcare",
         "id": "1326"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Anna",
@@ -9727,14 +10438,18 @@
         "name": "Distributed Service Delivery",
         "id": "33503"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Bern"
   },
   {
     "firstName": "Peter",
     "lastName": "Hajdu",
     "id": 1274,
     "code": "peha",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andrea",
@@ -9746,7 +10461,9 @@
         "name": "Requirements Engineering",
         "id": "569"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Richard",
@@ -9758,7 +10475,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Principal Management Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael Stefan",
@@ -9806,7 +10525,9 @@
         "name": "Qt",
         "id": "44"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Markus",
@@ -9818,7 +10539,9 @@
         "name": "Embedded Linux",
         "id": "193"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rupert",
@@ -9834,7 +10557,9 @@
         "name": "Yocto",
         "id": "1587"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Peter R.",
@@ -9858,7 +10583,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Uwe",
@@ -9926,7 +10653,9 @@
         "name": "EN 13849",
         "id": "2104"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Markus",
@@ -9950,7 +10679,9 @@
         "name": "F#",
         "id": "745"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Edgar",
@@ -9962,7 +10693,9 @@
         "name": "Security",
         "id": "355"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Markus",
@@ -10034,7 +10767,9 @@
         "name": "System Architecture",
         "id": "500"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michèle",
@@ -10066,7 +10801,9 @@
         "name": "Coaching",
         "id": "1701"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Manuel",
@@ -10090,7 +10827,9 @@
         "name": "Python",
         "id": "96"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christoph",
@@ -10158,7 +10897,9 @@
         "name": "Rail",
         "id": "1376"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Daniel",
@@ -10182,7 +10923,9 @@
         "name": "Embedded Linux",
         "id": "193"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Robert",
@@ -10254,7 +10997,9 @@
         "name": "SysML",
         "id": "86"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Adrian",
@@ -10286,7 +11031,9 @@
         "name": "C",
         "id": "1245"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christian",
@@ -10322,7 +11069,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -10354,14 +11103,18 @@
         "name": "Consulting",
         "id": "1290"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jörg",
     "lastName": "Keller",
     "id": 360,
     "code": "jke",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Donat",
@@ -10405,7 +11158,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Georg",
@@ -10445,7 +11200,9 @@
         "name": "Quality Management",
         "id": "797"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Gregor",
@@ -10497,14 +11254,18 @@
         "name": "high availability",
         "id": "2528"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Robert",
     "lastName": "van Haarlem",
     "id": 175980,
     "code": "roha",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dominik",
@@ -10524,7 +11285,9 @@
         "name": "Openshift",
         "id": "2461"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Franziska",
@@ -10544,14 +11307,18 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marcel",
     "lastName": "Stalder",
     "id": 176364,
     "code": "stma",
-    "interests": []
+    "interests": [],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andreas",
@@ -10615,7 +11382,9 @@
         "name": "Cloud Computing",
         "id": "346"
       }
-    ]
+    ],
+    "title": "Lead Software Architekt",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marc",
@@ -10651,7 +11420,9 @@
         "name": "Solution Architecture",
         "id": "1952"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Raphael",
@@ -10695,14 +11466,18 @@
         "name": "Deep Learning",
         "id": "22806"
       }
-    ]
+    ],
+    "title": "Principal Consultant SW",
+    "location": "Schlieren"
   },
   {
     "firstName": "Don",
     "lastName": "Kodiyan",
     "id": 175911,
     "code": "doko",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -10734,7 +11509,9 @@
         "name": "Security",
         "id": "355"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sebastian",
@@ -10806,7 +11583,9 @@
         "name": "Zühlke Bulgaria",
         "id": "43667"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Till",
@@ -10842,7 +11621,9 @@
         "name": "Kotlin",
         "id": "2110"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Simon",
@@ -10862,7 +11643,9 @@
         "name": "Augmented Reality",
         "id": "1573"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -10906,7 +11689,9 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Oliver",
@@ -10942,14 +11727,18 @@
         "name": "Artificial Intelligence",
         "id": "826"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dominik",
     "lastName": "Witschard",
     "id": 176550,
     "code": "dowi",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -10993,7 +11782,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michal",
@@ -11037,7 +11828,9 @@
         "name": "Distributed Development",
         "id": "1400"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "David",
@@ -11065,7 +11858,9 @@
         "name": "Continuous integration and delivery",
         "id": "371"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Thomas",
@@ -11089,7 +11884,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ivo",
@@ -11113,7 +11910,9 @@
         "name": "Oracle",
         "id": "156"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Patrick",
@@ -11173,7 +11972,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Martin",
@@ -11241,7 +12042,9 @@
         "name": "TCP/IP",
         "id": "8"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Daniel",
@@ -11281,7 +12084,9 @@
         "name": "Mentoring Student-Projects",
         "id": "43596"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ben",
@@ -11325,14 +12130,18 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andreas",
     "lastName": "Müller",
     "id": 176419,
     "code": "muan",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "David",
@@ -11408,14 +12217,18 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Richard",
     "lastName": "Bartelmes",
     "id": 1402,
     "code": "riba",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Simon",
@@ -11447,7 +12260,9 @@
         "name": "ReactJS",
         "id": "1585"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Silas",
@@ -11463,7 +12278,9 @@
         "name": "Augmented Reality",
         "id": "1573"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dominic",
@@ -11507,7 +12324,9 @@
         "name": "React Native",
         "id": "12715"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stephan",
@@ -11539,14 +12358,18 @@
         "name": "Reactive Architectures",
         "id": "1113"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Bern"
   },
   {
     "firstName": "Nicolas",
     "lastName": "Marty",
     "id": 174936,
     "code": "nmar",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Mario",
@@ -11558,7 +12381,9 @@
         "name": "Embedded Linux",
         "id": "193"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Dominik",
@@ -11582,7 +12407,9 @@
         "name": "Continuous integration and delivery",
         "id": "371"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Bern"
   },
   {
     "firstName": "Daniel",
@@ -11598,7 +12425,9 @@
         "name": "Requirements Engineering",
         "id": "569"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Bern"
   },
   {
     "firstName": "Martin",
@@ -11642,7 +12471,9 @@
         "name": "Windows",
         "id": "1854"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Bern"
   },
   {
     "firstName": "Steven",
@@ -11682,7 +12513,9 @@
         "name": "Security",
         "id": "355"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Heinz",
@@ -11726,7 +12559,9 @@
         "name": "Scrum",
         "id": "602"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Bern"
   },
   {
     "firstName": "Martin",
@@ -11754,7 +12589,9 @@
         "name": "Security",
         "id": "355"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Bern"
   },
   {
     "firstName": "Matthias",
@@ -11766,7 +12603,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Bern"
   },
   {
     "firstName": "Lukas",
@@ -11826,7 +12665,9 @@
         "name": "Haskell",
         "id": "121"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Fabien",
@@ -11850,7 +12691,9 @@
         "name": "Augmented Reality",
         "id": "1573"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Yandy",
@@ -11870,7 +12713,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Nils",
@@ -11890,7 +12735,9 @@
         "name": "Functional Programming",
         "id": "620"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Dominik",
@@ -11910,7 +12757,9 @@
         "name": "Angular",
         "id": "2487"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Christian",
@@ -11942,7 +12791,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jean-Claude",
@@ -11970,7 +12821,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christoph",
@@ -12014,7 +12867,9 @@
         "name": "Verification and Validation",
         "id": "1815"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jascha",
@@ -12058,14 +12913,18 @@
         "name": "Plant Engineering",
         "id": "1520"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Kevin",
     "lastName": "Arm",
     "id": 176005,
     "code": "kear",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Corinne",
@@ -12085,7 +12944,9 @@
         "name": "Python",
         "id": "96"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Patrick",
@@ -12113,7 +12974,9 @@
         "name": "Biomedical Optics",
         "id": "2195"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Paul",
@@ -12129,7 +12992,9 @@
         "name": "NI TestStand",
         "id": "924"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Roman",
@@ -12153,14 +13018,18 @@
         "name": "Blockchain",
         "id": "2121"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Bern"
   },
   {
     "firstName": "Adrian",
     "lastName": "Bärtschi",
     "id": 175319,
     "code": "adba",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Stefan",
@@ -12180,7 +13049,9 @@
         "name": "Docker",
         "id": "898"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Etienne",
@@ -12200,7 +13071,9 @@
         "name": "Constraint Programming",
         "id": "43903"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Nico",
@@ -12224,7 +13097,9 @@
         "name": "Solidity",
         "id": "12688"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Stefka",
@@ -12252,7 +13127,9 @@
         "name": "Zühlke Bulgaria",
         "id": "43667"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Samuel",
@@ -12288,7 +13165,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Thomas",
@@ -12300,7 +13179,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Doris",
@@ -12332,7 +13213,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Bern"
   },
   {
     "firstName": "Lukas",
@@ -12356,7 +13239,9 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Jeannette",
@@ -12380,7 +13265,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "David",
@@ -12420,7 +13307,9 @@
         "name": "Testing",
         "id": "361"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Genc",
@@ -12488,7 +13377,9 @@
         "name": "User Experience Design",
         "id": "715"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Oliver",
@@ -12548,7 +13439,9 @@
         "name": "BDD",
         "id": "23267"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Leotrim",
@@ -12596,7 +13489,9 @@
         "name": "OWASP Top 10",
         "id": "780"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marc",
@@ -12608,7 +13503,9 @@
         "name": "Relational Databases",
         "id": "1239"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rolf",
@@ -12676,7 +13573,9 @@
         "name": "Software Engineering Trainer",
         "id": "338"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lukas",
@@ -12696,14 +13595,18 @@
         "name": "Web Development",
         "id": "555"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Adrian",
     "lastName": "Herzog",
     "id": 1007,
     "code": "adh",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andrea",
@@ -12731,7 +13634,9 @@
         "name": "Web Frontend Development",
         "id": "743"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lukas",
@@ -12807,7 +13712,9 @@
         "name": "Financial Controlling",
         "id": "952"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christoph",
@@ -12851,7 +13758,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Pia",
@@ -12891,7 +13800,9 @@
         "name": "Security",
         "id": "355"
       }
-    ]
+    ],
+    "title": "Advanced QA Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Khalid",
@@ -12919,7 +13830,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jonathan",
@@ -12991,7 +13904,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Tobias",
@@ -13027,7 +13942,9 @@
         "name": "Entity Framework",
         "id": "247"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christina",
@@ -13055,14 +13972,18 @@
         "name": "Insurance",
         "id": "420"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Noël",
     "lastName": "Rimensberger",
     "id": 186652,
     "code": "nori",
-    "interests": []
+    "interests": [],
+    "title": "Studentischer Mitarbeiter",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andreas",
@@ -13102,14 +14023,18 @@
         "name": "Quality Assurance",
         "id": "1093"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Roman",
     "lastName": "Weis",
     "id": 175883,
     "code": "rowe",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dominik",
@@ -13157,7 +14082,9 @@
         "name": "Performance Optimization",
         "id": "43874"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Oliviero",
@@ -13205,14 +14132,18 @@
         "name": "Continuous integration and delivery",
         "id": "371"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Patrik",
     "lastName": "Huggenberger",
     "id": 175956,
     "code": "hupa",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Claudia",
@@ -13256,7 +14187,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Luca",
@@ -13292,14 +14225,18 @@
         "name": "rent a startup",
         "id": "2125"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Martin",
     "lastName": "Studach",
     "id": 439,
     "code": "stm",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jörg",
@@ -13315,14 +14252,18 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Manuel",
     "lastName": "Weber",
     "id": 175370,
     "code": "mweb",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Simon",
@@ -13362,7 +14303,9 @@
         "name": "C++",
         "id": "91"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lothar",
@@ -13390,7 +14333,9 @@
         "name": "Embedded Linux",
         "id": "193"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -13422,7 +14367,9 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Matthias",
@@ -13458,7 +14405,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Paula",
@@ -13482,7 +14431,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Patrick",
@@ -13526,7 +14477,9 @@
         "name": "Scrum",
         "id": "602"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Belinda",
@@ -13554,7 +14507,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Martin",
@@ -13594,7 +14549,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stephan",
@@ -13614,7 +14571,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Markus",
@@ -13654,14 +14613,18 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Heinz",
     "lastName": "Hotz",
     "id": 349,
     "code": "hot",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sébastien",
@@ -13713,7 +14676,9 @@
         "name": "Power Electronics",
         "id": "1246"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lorenz",
@@ -13741,7 +14706,9 @@
         "name": "Power Grid",
         "id": "1072"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sandro",
@@ -13817,7 +14784,9 @@
         "name": "Digital Electronics & Microcontroller Systems",
         "id": "44158"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabian",
@@ -13861,7 +14830,9 @@
         "name": "Spring",
         "id": "240"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Madeleine",
@@ -13889,7 +14860,9 @@
         "name": "Web Security",
         "id": "2033"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Matthias",
@@ -13937,7 +14910,9 @@
         "name": "Angular",
         "id": "2487"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lars",
@@ -13965,7 +14940,9 @@
         "name": "Performance Profiling",
         "id": "1067"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christian",
@@ -14005,14 +14982,18 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christoph",
     "lastName": "Buchendorfer",
     "id": 646,
     "code": "chb",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Tobias",
@@ -14052,7 +15033,9 @@
         "name": "Amazon Web Services",
         "id": "53"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sebastian",
@@ -14120,7 +15103,9 @@
         "name": "ASP.NET",
         "id": "27"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marcel",
@@ -14132,7 +15117,9 @@
         "name": "Amazon Web Services",
         "id": "53"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marius",
@@ -14188,7 +15175,9 @@
         "name": "Continuous integration and delivery",
         "id": "371"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -14216,7 +15205,9 @@
         "name": "Java8",
         "id": "1953"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Alina",
@@ -14236,7 +15227,9 @@
         "name": "IoT",
         "id": "523"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marvin",
@@ -14292,7 +15285,9 @@
         "name": "Vue.js",
         "id": "43597"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jerome",
@@ -14316,7 +15311,9 @@
         "name": "Java Enterprise Edition",
         "id": "490"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Benjamin",
@@ -14368,7 +15365,9 @@
         "name": "Extended Reality",
         "id": "43743"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marina",
@@ -14408,7 +15407,9 @@
         "name": "Development Processes",
         "id": "1980"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Yves",
@@ -14424,14 +15425,18 @@
         "name": "Banking",
         "id": "795"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Thomas",
     "lastName": "Müggler",
     "id": 175277,
     "code": "thmu",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christian",
@@ -14471,14 +15476,18 @@
         "name": "Engaging with Startups",
         "id": "473"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dany",
     "lastName": "Brossel",
     "id": 186688,
     "code": "danb",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sascha",
@@ -14570,7 +15579,9 @@
         "name": "Continuous integration and delivery",
         "id": "371"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stephan",
@@ -14614,7 +15625,9 @@
         "name": "Algorithms",
         "id": "507"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dominik",
@@ -14686,7 +15699,9 @@
         "name": "Rx (Reactive-Extensions)",
         "id": "2538"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Niklas",
@@ -14750,7 +15765,9 @@
         "name": "High Performance Computing",
         "id": "1724"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Max",
@@ -14794,7 +15811,9 @@
         "name": "Full-Stack JavaScript",
         "id": "43541"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sebastian",
@@ -14834,7 +15853,9 @@
         "name": "Google Cloud Platform (GCP)",
         "id": "23331"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Daniel",
@@ -14870,14 +15891,18 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Manfred",
     "lastName": "Stettler",
     "id": 579,
     "code": "stl",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabian",
@@ -14905,7 +15930,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Oliver",
@@ -14957,28 +15984,36 @@
         "name": "TypeScript",
         "id": "127"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christoph",
     "lastName": "Meier",
     "id": 311,
     "code": "chm",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Patrick",
     "lastName": "Marty",
     "id": 186811,
     "code": "mapa",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Luca Dario",
     "lastName": "Marinucci",
     "id": 175397,
     "code": "luma",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Roland",
@@ -14998,7 +16033,9 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
@@ -15026,7 +16063,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Linda",
@@ -15094,7 +16133,9 @@
         "name": "Moderation",
         "id": "1395"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Leon",
@@ -15106,7 +16147,9 @@
         "name": "Docker",
         "id": "898"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
@@ -15170,7 +16213,9 @@
         "name": "Full-Stack JavaScript",
         "id": "43541"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Timon",
@@ -15238,7 +16283,9 @@
         "name": "WebAssembly",
         "id": "43920"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Alain",
@@ -15338,7 +16385,9 @@
         "name": "Enterprise Agility",
         "id": "12664"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Bern"
   },
   {
     "firstName": "Rita",
@@ -15370,7 +16419,9 @@
         "name": "Coaching",
         "id": "1701"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Bern"
   },
   {
     "firstName": "David",
@@ -15390,7 +16441,9 @@
         "name": "Large-Scale Scrum (LeSS)",
         "id": "1166"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Nikolaos",
@@ -15430,7 +16483,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ina",
@@ -15522,7 +16577,9 @@
         "name": "Alternative Organisation Forms",
         "id": "43947"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Peter",
@@ -15562,7 +16619,9 @@
         "name": "Scrum Essentials Training",
         "id": "1700"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Bern"
   },
   {
     "firstName": "Jeannette",
@@ -15598,7 +16657,9 @@
         "name": "Coaching",
         "id": "1701"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rick",
@@ -15614,28 +16675,36 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Peter",
     "lastName": "Spiess",
     "id": 436,
     "code": "spe",
-    "interests": []
+    "interests": [],
+    "title": "Leiter Versuchswerkstatt",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marcel",
     "lastName": "Kamber",
     "id": 175905,
     "code": "maka",
-    "interests": []
+    "interests": [],
+    "title": "CNC Expert",
+    "location": "Schlieren"
   },
   {
     "firstName": "André",
     "lastName": "Schmidli",
     "id": 486,
     "code": "asc",
-    "interests": []
+    "interests": [],
+    "title": "CNC Setter",
+    "location": "Schlieren"
   },
   {
     "firstName": "Gerd",
@@ -15659,7 +16728,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "München"
   },
   {
     "firstName": "Ruben",
@@ -15715,7 +16786,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Michael",
@@ -15727,14 +16800,18 @@
         "name": "Agile Coaching",
         "id": "1304"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "München"
   },
   {
     "firstName": "Sven",
     "lastName": "Lenhof",
     "id": 1112,
     "code": "les",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "München"
   },
   {
     "firstName": "Stephan",
@@ -15746,7 +16823,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "München"
   },
   {
     "firstName": "Sven-Michael",
@@ -15802,7 +16881,9 @@
         "name": ".NET",
         "id": "440"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "München"
   },
   {
     "firstName": "Kai",
@@ -15846,14 +16927,18 @@
         "name": "Unity",
         "id": "22750"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Daniela",
     "lastName": "Huber",
     "id": 174952,
     "code": "dahu",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Business Analyst",
+    "location": "München"
   },
   {
     "firstName": "Matthias",
@@ -15893,7 +16978,9 @@
         "name": "Blockchain",
         "id": "2121"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Marius Nicolae",
@@ -15957,7 +17044,9 @@
         "name": "Cloud Computing",
         "id": "346"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Frank",
@@ -15973,14 +17062,18 @@
         "name": "Spring Boot",
         "id": "2460"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Ramona",
     "lastName": "Fensterer",
     "id": 174755,
     "code": "rapo",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Florian",
@@ -16004,7 +17097,9 @@
         "name": "golang",
         "id": "1534"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Casper",
@@ -16016,7 +17111,9 @@
         "name": "Android",
         "id": "182"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Matthias",
@@ -16052,7 +17149,9 @@
         "name": "Containerization",
         "id": "33495"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Sven",
@@ -16100,7 +17199,9 @@
         "name": "Kubernetes",
         "id": "2554"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Alexander",
@@ -16136,7 +17237,9 @@
         "name": "Zühlke Sofia",
         "id": "43562"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "München"
   },
   {
     "firstName": "Irina",
@@ -16156,7 +17259,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "München"
   },
   {
     "firstName": "Christian",
@@ -16180,7 +17285,9 @@
         "name": "Architecture as Code",
         "id": "43936"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "München"
   },
   {
     "firstName": "Patrick",
@@ -16216,7 +17323,9 @@
         "name": "Microsoft Azure",
         "id": "529"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Eschborn"
   },
   {
     "firstName": "David",
@@ -16236,7 +17345,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Mathias",
@@ -16268,7 +17379,9 @@
         "name": "Business Analysis",
         "id": "508"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Claire",
@@ -16288,7 +17401,9 @@
         "name": "Mentoring",
         "id": "2089"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Benedikt",
@@ -16336,7 +17451,9 @@
         "name": "M2M",
         "id": "528"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Simon",
@@ -16356,7 +17473,9 @@
         "name": "vim",
         "id": "44069"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Stephan",
@@ -16412,21 +17531,27 @@
         "name": "Docker",
         "id": "898"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Klaus",
     "lastName": "Alfert",
     "id": 272,
     "code": "kal",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant / CTO",
+    "location": "Eschborn"
   },
   {
     "firstName": "Frank",
     "lastName": "Zetzsche",
     "id": 273,
     "code": "zef",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Bernd",
@@ -16450,7 +17575,9 @@
         "name": "Performance Engineering",
         "id": "1966"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Tina",
@@ -16478,7 +17605,9 @@
         "name": "Management of Discovery Phase",
         "id": "43982"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Eschborn"
   },
   {
     "firstName": "Simon",
@@ -16522,7 +17651,9 @@
         "name": "Azure Data-Factory",
         "id": "23239"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Manuel",
@@ -16538,7 +17669,9 @@
         "name": "User Experience Design",
         "id": "715"
       }
-    ]
+    ],
+    "title": "Advanced Business Analyst",
+    "location": "Eschborn"
   },
   {
     "firstName": "Pawel",
@@ -16574,7 +17707,9 @@
         "name": "Mathematics",
         "id": "1026"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Adrian",
@@ -16618,7 +17753,9 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Ronald",
@@ -16698,7 +17835,9 @@
         "name": "Low Power",
         "id": "1727"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Alexander",
@@ -16722,7 +17861,9 @@
         "name": "Zigbee",
         "id": "1820"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Noelia",
@@ -16746,7 +17887,9 @@
         "name": "Requirements Engineering",
         "id": "569"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "München"
   },
   {
     "firstName": "Christoph",
@@ -16770,7 +17913,9 @@
         "name": "Customer Experience Design",
         "id": "1923"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "München"
   },
   {
     "firstName": "Falk",
@@ -16790,7 +17935,9 @@
         "name": "Low Power Electronics & Battery driven designs & DC/DC & Power  Supply",
         "id": "1513"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "München"
   },
   {
     "firstName": "Christopher",
@@ -16826,7 +17973,9 @@
         "name": "LESS",
         "id": "124"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "München"
   },
   {
     "firstName": "Philipp",
@@ -16842,7 +17991,9 @@
         "name": "ADM Coach",
         "id": "2517"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "München"
   },
   {
     "firstName": "David",
@@ -16898,7 +18049,9 @@
         "name": "Testing",
         "id": "361"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "München"
   },
   {
     "firstName": "Claudia",
@@ -16934,7 +18087,9 @@
         "name": "Cryptography",
         "id": "782"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Peter",
@@ -16986,7 +18141,9 @@
         "name": "FPGA (Field Programmable Gate Array)",
         "id": "174"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "München"
   },
   {
     "firstName": "Julian",
@@ -17018,21 +18175,27 @@
         "name": "Requirements Engineering",
         "id": "569"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "München"
   },
   {
     "firstName": "Eugen",
     "lastName": "Wist",
     "id": 175915,
     "code": "euwi",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "München"
   },
   {
     "firstName": "Cornelia",
     "lastName": "Massin",
     "id": 175903,
     "code": "maco",
-    "interests": []
+    "interests": [],
+    "title": "Expert Usability Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Achilles",
@@ -17080,14 +18243,18 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Carsten",
     "lastName": "Kind",
     "id": 315,
     "code": "cmk",
-    "interests": []
+    "interests": [],
+    "title": "Distinguished Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Robin",
@@ -17147,14 +18314,18 @@
         "name": "Atlassian JIRA",
         "id": "285"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Hans",
     "lastName": "Becker",
     "id": 175893,
     "code": "habe",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Jonas",
@@ -17198,7 +18369,9 @@
         "name": "Swift",
         "id": "935"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Katharina",
@@ -17238,21 +18411,27 @@
         "name": "Aurelia",
         "id": "2178"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Werner",
     "lastName": "Dian",
     "id": 529,
     "code": "wdn",
-    "interests": []
+    "interests": [],
+    "title": "Lead Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Markus",
     "lastName": "Rennings",
     "id": 690,
     "code": "ren",
-    "interests": []
+    "interests": [],
+    "title": "Lead Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Henning",
@@ -17312,7 +18491,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Sven",
@@ -17356,7 +18537,9 @@
         "name": "Hybrid Mobile Development",
         "id": "43925"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Kerry",
@@ -17372,7 +18555,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Katharina",
@@ -17392,7 +18577,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Andreas",
@@ -17432,7 +18619,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Eschborn"
   },
   {
     "firstName": "Anja",
@@ -17452,7 +18641,9 @@
         "name": "User centered Design",
         "id": "664"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Michael",
@@ -17488,7 +18679,9 @@
         "name": "Medical",
         "id": "418"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Markus",
@@ -17528,21 +18721,27 @@
         "name": "Full-Stack JavaScript",
         "id": "43541"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Ingolf",
     "lastName": "Wehlau",
     "id": 176102,
     "code": "wehi",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Architect",
+    "location": "Hannover"
   },
   {
     "firstName": "Tobias",
     "lastName": "Kaltenecker",
     "id": 175984,
     "code": "toka",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Alexander",
@@ -17586,7 +18785,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Timo",
@@ -17598,7 +18799,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Krystian",
@@ -17658,7 +18861,9 @@
         "name": "Azure DevOps",
         "id": "43852"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Markus",
@@ -17710,14 +18915,18 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Hannover"
   },
   {
     "firstName": "Ralph",
     "lastName": "Depke",
     "id": 260,
     "code": "rde",
-    "interests": []
+    "interests": [],
+    "title": "Principal Project Manager",
+    "location": "Hannover"
   },
   {
     "firstName": "Florian",
@@ -17773,7 +18982,9 @@
         "name": "golang",
         "id": "1534"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Fahed",
@@ -17809,14 +19020,18 @@
         "name": "Java Enterprise Edition",
         "id": "490"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Konstantin",
     "lastName": "Scherer",
     "id": 175848,
     "code": "kosc",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Simon",
@@ -17864,7 +19079,9 @@
         "name": "Amazon Web Services",
         "id": "53"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "René",
@@ -17896,7 +19113,9 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Sebastian",
@@ -17928,7 +19147,9 @@
         "name": ".NET",
         "id": "440"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Jens",
@@ -17964,14 +19185,18 @@
         "name": "Software Engineering",
         "id": "337"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hannover"
   },
   {
     "firstName": "Christoph",
     "lastName": "Metz",
     "id": 1498,
     "code": "metz",
-    "interests": []
+    "interests": [],
+    "title": "Expert Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Philipp",
@@ -17983,7 +19208,9 @@
         "name": "Systems Development",
         "id": "1999"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Robert",
@@ -17995,7 +19222,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Jens",
@@ -18011,14 +19240,18 @@
         "name": "Electronics Hardware",
         "id": "483"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": null,
     "lastName": "Huthmann, Jens",
     "id": 175985,
     "code": "huje",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Adriane",
@@ -18034,14 +19267,18 @@
         "name": "Test Automation Architecture",
         "id": "496"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Marco",
     "lastName": "Troltsch",
     "id": 176346,
     "code": "mart",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Roman",
@@ -18065,14 +19302,18 @@
         "name": "Process Improvement",
         "id": "656"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Philipp",
     "lastName": "Scholz",
     "id": 175327,
     "code": "phis",
-    "interests": []
+    "interests": [],
+    "title": "Expert Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Daniela",
@@ -18092,7 +19333,9 @@
         "name": "Systems Engineering",
         "id": "368"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "John",
@@ -18112,7 +19355,9 @@
         "name": "User Experience Design",
         "id": "715"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Oliver",
@@ -18148,14 +19393,18 @@
         "name": "Narrowband IoT",
         "id": "44159"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Thomas",
     "lastName": "Jalowy",
     "id": 176101,
     "code": "jalt",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Matthias",
@@ -18179,7 +19428,9 @@
         "name": "Test Management",
         "id": "329"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Denis",
@@ -18259,7 +19510,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Holger",
@@ -18291,14 +19544,18 @@
         "name": "Scrum",
         "id": "602"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Kai",
     "lastName": "Hergenröther",
     "id": 1385,
     "code": "kahe",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Wolfgang",
@@ -18374,7 +19631,9 @@
         "name": "Mentoring",
         "id": "2089"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Hans-Jürgen",
@@ -18386,7 +19645,9 @@
         "name": "ICPMSB® Certified Professional for Medical Software",
         "id": "1992"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Eschborn"
   },
   {
     "firstName": "Vassilis",
@@ -18406,7 +19667,9 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Stephan",
@@ -18418,7 +19681,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Principal Project Manager",
+    "location": "Eschborn"
   },
   {
     "firstName": "Sebastian",
@@ -18430,7 +19695,9 @@
         "name": "Injection Moulding",
         "id": "1358"
       }
-    ]
+    ],
+    "title": "Lead Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Christian",
@@ -18498,7 +19765,9 @@
         "name": "Infrastructure as code",
         "id": "2489"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Elmar",
@@ -18526,7 +19795,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Helge",
@@ -18558,7 +19829,9 @@
         "name": "Team Collaboration",
         "id": "22848"
       }
-    ]
+    ],
+    "title": "Distinguished Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Thomas",
@@ -18578,21 +19851,27 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Katja",
     "lastName": "Fabel",
     "id": 175877,
     "code": "kafa",
-    "interests": []
+    "interests": [],
+    "title": "PM-Assistant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Morgan",
     "lastName": "Kita",
     "id": 1512,
     "code": "kimo",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "André",
@@ -18616,14 +19895,18 @@
         "name": "Embedded Linux",
         "id": "193"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Norman",
     "lastName": "Matzeit",
     "id": 1030,
     "code": "nom",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "Eschborn"
   },
   {
     "firstName": "Daniel",
@@ -18667,7 +19950,9 @@
         "name": "Linux",
         "id": "181"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Sebastian",
@@ -18683,14 +19968,18 @@
         "name": "Certified Scrum Master",
         "id": "746"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Eschborn"
   },
   {
     "firstName": "Marc",
     "lastName": "Brandt",
     "id": 722,
     "code": "bra",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Jörg",
@@ -18718,7 +20007,9 @@
         "name": "Electrical Engineering",
         "id": "481"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Andreas",
@@ -18746,7 +20037,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Eschborn"
   },
   {
     "firstName": "Fabian",
@@ -18778,7 +20071,9 @@
         "name": "Medical",
         "id": "418"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Oliver",
@@ -18790,7 +20085,9 @@
         "name": "Wireless Connectivity",
         "id": "1663"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Eschborn"
   },
   {
     "firstName": "Frederik",
@@ -18814,28 +20111,36 @@
         "name": "LabVIEW",
         "id": "1240"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Peter",
     "lastName": "Kersten",
     "id": 175930,
     "code": "kepe",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Nick",
     "lastName": "Kanzler",
     "id": 175931,
     "code": "nika",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Florian",
     "lastName": "Zirk",
     "id": 174791,
     "code": "flof",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Konrad",
@@ -18871,7 +20176,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Anne",
@@ -18883,7 +20190,9 @@
         "name": "Z Topic-Embedded-Linux",
         "id": "43696"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Markus",
@@ -18935,7 +20244,9 @@
         "name": "LaTeX",
         "id": "392"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Nazli",
@@ -18971,14 +20282,18 @@
         "name": "Workshop Moderation",
         "id": "1918"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Simon",
     "lastName": "Berninger",
     "id": 174858,
     "code": "besi",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Tobias",
@@ -19018,21 +20333,27 @@
         "name": "FPGA (Field Programmable Gate Array)",
         "id": "174"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Eschborn"
   },
   {
     "firstName": "Sven",
     "lastName": "Bünte",
     "id": 967,
     "code": "svb",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Hamburg"
   },
   {
     "firstName": "Stefan",
     "lastName": "Reichert",
     "id": 1001,
     "code": "srt",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Hamburg"
   },
   {
     "firstName": "Jan",
@@ -19060,7 +20381,9 @@
         "name": "Augmented Reality",
         "id": "1573"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Hamburg"
   },
   {
     "firstName": "Michel",
@@ -19092,21 +20415,27 @@
         "name": "System Testing",
         "id": "915"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Dmitrij",
     "lastName": "Golub",
     "id": 175902,
     "code": "digo",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Jan-Ole",
     "lastName": "Giebel",
     "id": 172834,
     "code": "jagi",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Florian",
@@ -19138,14 +20467,18 @@
         "name": "Electron",
         "id": "12649"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Jochen",
     "lastName": "Miroll",
     "id": 175869,
     "code": "jomi",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Eric",
@@ -19201,7 +20534,9 @@
         "name": "Lean and agile organizations",
         "id": "1647"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Hamburg"
   },
   {
     "firstName": "Sebastian",
@@ -19245,14 +20580,18 @@
         "name": "Qt",
         "id": "44"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Garlef",
     "lastName": "Peters",
     "id": 174795,
     "code": "gape",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Ingo",
@@ -19280,7 +20619,9 @@
         "name": "Relational Databases",
         "id": "1239"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Kai",
@@ -19308,7 +20649,9 @@
         "name": "JavaScript",
         "id": "89"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Arne",
@@ -19376,21 +20719,27 @@
         "name": "Spring Boot",
         "id": "2460"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Hamburg"
   },
   {
     "firstName": "Michael",
     "lastName": "Hanfland",
     "id": 174857,
     "code": "miha",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Hamburg"
   },
   {
     "firstName": "Ole",
     "lastName": "Hildebrandt",
     "id": 1145,
     "code": "hol",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "Hamburg"
   },
   {
     "firstName": "Sebastian",
@@ -19418,14 +20767,18 @@
         "name": "Agile Requirements Engineering",
         "id": "1645"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "München"
   },
   {
     "firstName": "Sven",
     "lastName": "Gürke",
     "id": 192,
     "code": "svg",
-    "interests": []
+    "interests": [],
+    "title": "Project Director",
+    "location": "Eschborn"
   },
   {
     "firstName": "Georg",
@@ -19449,14 +20802,18 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Distinguished Consultant / Group CIO",
+    "location": "Eschborn"
   },
   {
     "firstName": "Matthias",
     "lastName": "Köhler",
     "id": 630,
     "code": "koe",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "Hannover"
   },
   {
     "firstName": "Andreas",
@@ -19476,7 +20833,9 @@
         "name": "Automotive",
         "id": "426"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Miroslav",
@@ -19540,7 +20899,9 @@
         "name": "JavaScript",
         "id": "89"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Daniel",
@@ -19604,14 +20965,18 @@
         "name": "ASP.NET Core",
         "id": "22730"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Thomas",
     "lastName": "Wilczek",
     "id": 174820,
     "code": "wilc",
-    "interests": []
+    "interests": [],
+    "title": "Lead Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Georg",
@@ -19631,7 +20996,9 @@
         "name": "Quality Assurance",
         "id": "1093"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Christian",
@@ -19671,7 +21038,9 @@
         "name": "Hardware Migration",
         "id": "2520"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Torben",
@@ -19683,7 +21052,9 @@
         "name": "golang",
         "id": "1534"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Alexander",
@@ -19727,7 +21098,9 @@
         "name": "Microsoft Azure",
         "id": "529"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Marcel",
@@ -19751,7 +21124,9 @@
         "name": "golang",
         "id": "1534"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Annabel",
@@ -19795,21 +21170,27 @@
         "name": "Requirements Engineering",
         "id": "569"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Stuttgart"
   },
   {
     "firstName": "Matthias",
     "lastName": "Seeland",
     "id": 174860,
     "code": "mse",
-    "interests": []
+    "interests": [],
+    "title": "Project Director",
+    "location": "Eschborn"
   },
   {
     "firstName": "Erik",
     "lastName": "Steiner",
     "id": 261,
     "code": "est",
-    "interests": []
+    "interests": [],
+    "title": "Project Director",
+    "location": "Eschborn"
   },
   {
     "firstName": "Barbara",
@@ -19821,7 +21202,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Bojan",
@@ -19837,7 +21220,9 @@
         "name": "Visual Design",
         "id": "1031"
       }
-    ]
+    ],
+    "title": "Lead Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fredrik",
@@ -19937,7 +21322,9 @@
         "name": "Nearshoring",
         "id": "1219"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marcel",
@@ -19993,28 +21380,36 @@
         "name": "Mobile Devices",
         "id": "631"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michael",
     "lastName": "Schnyder",
     "id": 176369,
     "code": "mis",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Singapore"
   },
   {
     "firstName": "Ilka",
     "lastName": "Steinicke",
     "id": 1561,
     "code": "stil",
-    "interests": []
+    "interests": [],
+    "title": "Projektleitungs-Assistenz",
+    "location": "Hamburg"
   },
   {
     "firstName": "Chris",
     "lastName": "Joyce",
     "id": 760,
     "code": "cjo",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "London"
   },
   {
     "firstName": "Paul",
@@ -20050,7 +21445,9 @@
         "name": "Cloud Computing",
         "id": "346"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "London"
   },
   {
     "firstName": "Kevin",
@@ -20094,35 +21491,45 @@
         "name": "Microservices",
         "id": "1748"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "London"
   },
   {
     "firstName": "Jonathan",
     "lastName": "Rothwell",
     "id": 174054,
     "code": "joro",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Robert",
     "lastName": "Valdes",
     "id": 174007,
     "code": "rova",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Manoj",
     "lastName": "Kurien",
     "id": 174976,
     "code": "maku",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Miles",
     "lastName": "Pool",
     "id": 175295,
     "code": "mipo",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Daphne",
@@ -20162,21 +21569,27 @@
         "name": "Artificial Intelligence",
         "id": "826"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Andris",
     "lastName": "Strals",
     "id": 1018,
     "code": "and",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Andre",
     "lastName": "Coelho",
     "id": 1551,
     "code": "anco",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Immo",
@@ -20196,7 +21609,9 @@
         "name": "Blockchain",
         "id": "2121"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Raul",
@@ -20272,21 +21687,27 @@
         "name": "Scrum",
         "id": "602"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Yurena",
     "lastName": "Cabrera",
     "id": 174893,
     "code": "yuca",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Gergely",
     "lastName": "Boldogkoi",
     "id": 175891,
     "code": "gebo",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Andre",
@@ -20318,7 +21739,9 @@
         "name": "Mule",
         "id": "2537"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Eadred",
@@ -20350,7 +21773,9 @@
         "name": "Microservices",
         "id": "1748"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Manchester"
   },
   {
     "firstName": "Anna",
@@ -20374,49 +21799,63 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Manchester"
   },
   {
     "firstName": "Alison",
     "lastName": "McGreavy",
     "id": 175304,
     "code": "alim",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "Manchester"
   },
   {
     "firstName": "Christopher",
     "lastName": "Burdett-Smith-Whitting",
     "id": 1491,
     "code": "cbsw",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Manchester"
   },
   {
     "firstName": "Steve",
     "lastName": "Freeman",
     "id": 1389,
     "code": "sfre",
-    "interests": []
+    "interests": [],
+    "title": "Distinguished Consultant",
+    "location": "London"
   },
   {
     "firstName": "Dan",
     "lastName": "Bratton",
     "id": 8546,
     "code": "dabr",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "London"
   },
   {
     "firstName": "Waddaah",
     "lastName": "Abdu",
     "id": 175354,
     "code": "waab",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Chris",
     "lastName": "Fey",
     "id": 1554,
     "code": "chfe",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Lachezar",
@@ -20444,49 +21883,63 @@
         "name": "React Native",
         "id": "12715"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "George Dan",
     "lastName": "Foia",
     "id": 174918,
     "code": "gdfo",
-    "interests": []
+    "interests": [],
+    "title": "Lead UI Designer",
+    "location": "London"
   },
   {
     "firstName": "Susan",
     "lastName": "Engel",
     "id": 175339,
     "code": "suen",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "London"
   },
   {
     "firstName": "Vladimir",
     "lastName": "Radzivil",
     "id": 1178,
     "code": "vra",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "London"
   },
   {
     "firstName": "Neelesh",
     "lastName": "Sonawane",
     "id": 174915,
     "code": "neso",
-    "interests": []
+    "interests": [],
+    "title": "Lead UX Designer",
+    "location": "London"
   },
   {
     "firstName": "Giovanni",
     "lastName": "Asproni",
     "id": 175320,
     "code": "gias",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "London"
   },
   {
     "firstName": "Rajiv",
     "lastName": "Kurien",
     "id": 175309,
     "code": "raku",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Jason",
@@ -20570,7 +22023,9 @@
         "name": "Agile",
         "id": "443"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Paul",
@@ -20610,7 +22065,9 @@
         "name": "Formal Verification",
         "id": "1720"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "London"
   },
   {
     "firstName": "Davide",
@@ -20650,14 +22107,18 @@
         "name": ".NET",
         "id": "440"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "London"
   },
   {
     "firstName": "Philip",
     "lastName": "Hudson",
     "id": 174945,
     "code": "phud",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "London"
   },
   {
     "firstName": "René",
@@ -20669,21 +22130,27 @@
         "name": "Program Management",
         "id": "467"
       }
-    ]
+    ],
+    "title": "Principal Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andres",
     "lastName": "Asper",
     "id": 574,
     "code": "asp",
-    "interests": []
+    "interests": [],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ines",
     "lastName": "Lindner",
     "id": 176107,
     "code": "inli",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant User Experience",
+    "location": "Wien"
   },
   {
     "firstName": "Daniel",
@@ -20719,7 +22186,9 @@
         "name": "Value Engineering",
         "id": "1574"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christian",
@@ -20771,14 +22240,18 @@
         "name": "Prototyping",
         "id": "374"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Alexander",
     "lastName": "Furrer",
     "id": 175840,
     "code": "alfu",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabian",
@@ -20818,35 +22291,45 @@
         "name": "Spanisch",
         "id": "142"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Peter",
     "lastName": "Frech",
     "id": 401,
     "code": "pf",
-    "interests": []
+    "interests": [],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rafael",
     "lastName": "Mittler",
     "id": 175995,
     "code": "rami",
-    "interests": []
+    "interests": [],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Mathias",
     "lastName": "Blaser",
     "id": 1039,
     "code": "mbl",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marc",
     "lastName": "Pfyl",
     "id": 389,
     "code": "mpf",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ralf",
@@ -20870,14 +22353,18 @@
         "name": "Product Development",
         "id": "474"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Cédric",
     "lastName": "Urech",
     "id": 175963,
     "code": "ceur",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Frederick",
@@ -20901,7 +22388,9 @@
         "name": "Process Improvement",
         "id": "656"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Viviane",
@@ -20925,21 +22414,27 @@
         "name": "Reliability Engineering",
         "id": "1212"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ulrich",
     "lastName": "Öffinger",
     "id": 239,
     "code": "ulo",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andreas",
     "lastName": "Kaiser",
     "id": 977,
     "code": "aka",
-    "interests": []
+    "interests": [],
+    "title": "Lead Systems Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Reto",
@@ -20967,7 +22462,9 @@
         "name": "Rapid Prototyping",
         "id": "2032"
       }
-    ]
+    ],
+    "title": "Lead Systems Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Damir",
@@ -20991,7 +22488,9 @@
         "name": "Reliability Engineering",
         "id": "1212"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ronny",
@@ -21047,7 +22546,9 @@
         "name": "Consumer Products",
         "id": "1565"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jan",
@@ -21079,7 +22580,9 @@
         "name": "Energy Efficiency",
         "id": "531"
       }
-    ]
+    ],
+    "title": "Professional Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sebastian",
@@ -21103,14 +22606,18 @@
         "name": "Plastics Processing",
         "id": "43679"
       }
-    ]
+    ],
+    "title": "Advanced Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Silvio",
     "lastName": "Moser",
     "id": 811,
     "code": "smo",
-    "interests": []
+    "interests": [],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Robin",
@@ -21138,42 +22645,54 @@
         "name": "Oracle",
         "id": "156"
       }
-    ]
+    ],
+    "title": "Expert Systems Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Willy",
     "lastName": "Huwyler",
     "id": 460,
     "code": "whu",
-    "interests": []
+    "interests": [],
+    "title": "Lead Project Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jake",
     "lastName": "Lung",
     "id": 176427,
     "code": "jalu",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Ivan",
     "lastName": "Mah",
     "id": 176487,
     "code": "maiv",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Linda",
     "lastName": "Ching",
     "id": 176412,
     "code": "lich",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Business Analyst / Scrum Master",
+    "location": "Singapore"
   },
   {
     "firstName": "Abel",
     "lastName": "Tan",
     "id": 176403,
     "code": "abta",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Singapore"
   },
   {
     "firstName": "Nikola",
@@ -21237,7 +22756,9 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Aleksandar",
@@ -21269,7 +22790,9 @@
         "name": "IoT",
         "id": "523"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Marko",
@@ -21309,7 +22832,9 @@
         "name": "Software Architecture",
         "id": "525"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Jana",
@@ -21337,42 +22862,54 @@
         "name": "Zühlke Bulgaria",
         "id": "43667"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Aleksandar",
     "lastName": "Zeljkovic",
     "id": 176357,
     "code": "alze",
-    "interests": []
+    "interests": [],
+    "title": "Advanced QA Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milan",
     "lastName": "Toncic",
     "id": 176404,
     "code": "tomi",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Ivana",
     "lastName": "Dimitric",
     "id": 176383,
     "code": "ivdi",
-    "interests": []
+    "interests": [],
+    "title": "Project Manager",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Neda",
     "lastName": "Andric",
     "id": 176377,
     "code": "nand",
-    "interests": []
+    "interests": [],
+    "title": "Professional QA Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Katarina",
     "lastName": "Markovic",
     "id": 176366,
     "code": "mark",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Jelica",
@@ -21424,7 +22961,9 @@
         "name": "Team Building",
         "id": "469"
       }
-    ]
+    ],
+    "title": "Lead Project Manager",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Milan",
@@ -21580,7 +23119,9 @@
         "name": "Technical Leadership",
         "id": "2143"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Filip",
@@ -21596,7 +23137,9 @@
         "name": "Vue.js",
         "id": "43597"
       }
-    ]
+    ],
+    "title": "Professional DevOps Engeer",
+    "location": "New Belgrade"
   },
   {
     "firstName": "Bruno",
@@ -21672,7 +23215,9 @@
         "name": "IoT",
         "id": "523"
       }
-    ]
+    ],
+    "title": "Lead Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Michal",
@@ -21700,7 +23245,9 @@
         "name": "Cloud Computing",
         "id": "346"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Steffen",
@@ -21724,7 +23271,9 @@
         "name": "Cloud Computing",
         "id": "346"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabian",
@@ -21760,7 +23309,9 @@
         "name": "Full-Stack JavaScript",
         "id": "43541"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christian",
@@ -21808,7 +23359,9 @@
         "name": ".NET Core",
         "id": "22803"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Simon",
@@ -21868,7 +23421,9 @@
         "name": "Angular",
         "id": "2487"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Steven",
@@ -21908,7 +23463,9 @@
         "name": "PLSQL",
         "id": "23251"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Gabriel",
@@ -21944,14 +23501,18 @@
         "name": "Swift",
         "id": "935"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Silvan",
     "lastName": "Stich",
     "id": 175949,
     "code": "sist",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Luzius",
@@ -22003,7 +23564,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Roman",
@@ -22043,7 +23606,9 @@
         "name": "Business Intelligence",
         "id": "556"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Hannes",
@@ -22075,14 +23640,18 @@
         "name": "Build Automation",
         "id": "963"
       }
-    ]
+    ],
+    "title": "Lead Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sagi",
     "lastName": "Nedunkanal",
     "id": 435,
     "code": "sne",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Mario",
@@ -22134,7 +23703,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Markus",
@@ -22218,14 +23789,18 @@
         "name": "RabbitMQ",
         "id": "1528"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Dany",
     "lastName": "Löffler",
     "id": 1569,
     "code": "dalo",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Hassen",
@@ -22261,14 +23836,18 @@
         "name": "Customer Experience Design",
         "id": "1923"
       }
-    ]
+    ],
+    "title": "Expert UX/UI Designer",
+    "location": "Hong Kong"
   },
   {
     "firstName": "Kaspar",
     "lastName": "Staub",
     "id": 1023,
     "code": "kst",
-    "interests": []
+    "interests": [],
+    "title": "Lead Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Demian",
@@ -22340,7 +23919,9 @@
         "name": "Business Development",
         "id": "445"
       }
-    ]
+    ],
+    "title": "Lead Business Analyst",
+    "location": "Bern"
   },
   {
     "firstName": "Felix",
@@ -22376,7 +23957,9 @@
         "name": "Product Development",
         "id": "474"
       }
-    ]
+    ],
+    "title": "Advanced Requirements Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Markus",
@@ -22388,7 +23971,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Christoph",
@@ -22420,7 +24005,9 @@
         "name": "Agile",
         "id": "443"
       }
-    ]
+    ],
+    "title": "Principal Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Silke",
@@ -22436,7 +24023,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Lead Business Analyst",
+    "location": "Bern"
   },
   {
     "firstName": "Sabrina",
@@ -22472,7 +24061,9 @@
         "name": "Banking",
         "id": "795"
       }
-    ]
+    ],
+    "title": "Lead Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Patrick",
@@ -22516,7 +24107,9 @@
         "name": "Product Owner",
         "id": "905"
       }
-    ]
+    ],
+    "title": "Lead Business Analyst",
+    "location": "Bern"
   },
   {
     "firstName": "David",
@@ -22616,7 +24209,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Professional Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Pascal",
@@ -22668,7 +24263,9 @@
         "name": "Customer Experience Design",
         "id": "1923"
       }
-    ]
+    ],
+    "title": "Professional Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lukas",
@@ -22712,14 +24309,18 @@
         "name": "Agile",
         "id": "443"
       }
-    ]
+    ],
+    "title": "Professional Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Nicola",
     "lastName": "Burri",
     "id": 186767,
     "code": "nibu",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Gabriel",
@@ -22763,21 +24364,27 @@
         "name": "Consulting",
         "id": "1290"
       }
-    ]
+    ],
+    "title": "Advanced Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Cüneyt",
     "lastName": "Fedakar",
     "id": 175974,
     "code": "cufe",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lazar",
     "lastName": "Spremic",
     "id": 174972,
     "code": "lasp",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Business Analyst",
+    "location": "Bern"
   },
   {
     "firstName": "Christoph",
@@ -22797,7 +24404,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Bern"
   },
   {
     "firstName": "Manuela",
@@ -22861,7 +24470,9 @@
         "name": "Automotive",
         "id": "426"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Bern"
   },
   {
     "firstName": "Andreas",
@@ -22885,7 +24496,9 @@
         "name": "Agile",
         "id": "443"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Bern"
   },
   {
     "firstName": "Michael",
@@ -22921,7 +24534,9 @@
         "name": "Microsoft Sharepoint",
         "id": "406"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rebekka",
@@ -22977,7 +24592,9 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rixt",
@@ -22997,7 +24614,9 @@
         "name": "Customer Experience Design",
         "id": "1923"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Kathy",
@@ -23049,7 +24668,9 @@
         "name": "Product Owner",
         "id": "905"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Reto",
@@ -23077,7 +24698,9 @@
         "name": "Innovation",
         "id": "465"
       }
-    ]
+    ],
+    "title": "Expert Business Analyst",
+    "location": "Schlieren"
   },
   {
     "firstName": "Beat",
@@ -23097,7 +24720,9 @@
         "name": "rent a startup",
         "id": "2125"
       }
-    ]
+    ],
+    "title": "Senior Management Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Denise",
@@ -23125,7 +24750,9 @@
         "name": "Java",
         "id": "87"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Stefan",
@@ -23273,7 +24900,9 @@
         "name": "SOAP",
         "id": "33"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Urs",
@@ -23357,14 +24986,18 @@
         "name": "Redux",
         "id": "2498"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Samuel",
     "lastName": "Gauthier",
     "id": 186666,
     "code": "saga",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Martin",
@@ -23404,7 +25037,9 @@
         "name": "Evolutionary Algorithms",
         "id": "1582"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Oliver",
@@ -23436,14 +25071,18 @@
         "name": "Flutter",
         "id": "54217"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Bern"
   },
   {
     "firstName": "Silvan",
     "lastName": "Krebs",
     "id": 176439,
     "code": "sikr",
-    "interests": []
+    "interests": [],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Kaspar",
@@ -23475,7 +25114,9 @@
         "name": "Bid",
         "id": "1951"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Christian",
@@ -23519,7 +25160,9 @@
         "name": "Battery",
         "id": "1125"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Maria Paola",
@@ -23547,7 +25190,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Advanced Data Scientist",
+    "location": "Schlieren"
   },
   {
     "firstName": "Thomas",
@@ -23583,7 +25228,9 @@
         "name": "Data Science",
         "id": "1175"
       }
-    ]
+    ],
+    "title": "Advanced Data Scientist",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sascha",
@@ -23619,7 +25266,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Professional Data Scientist",
+    "location": "Schlieren"
   },
   {
     "firstName": "Robin",
@@ -23667,7 +25316,9 @@
         "name": "PyTorch",
         "id": "43930"
       }
-    ]
+    ],
+    "title": "Professional Data Scientist",
+    "location": "Schlieren"
   },
   {
     "firstName": "Nadja",
@@ -23727,7 +25378,9 @@
         "name": "Presentation",
         "id": "2041"
       }
-    ]
+    ],
+    "title": "Expert Data Scientist",
+    "location": "Schlieren"
   },
   {
     "firstName": "Tomas",
@@ -23791,7 +25444,9 @@
         "name": "Rshiny",
         "id": "23044"
       }
-    ]
+    ],
+    "title": "Expert Data Scientist",
+    "location": "Schlieren"
   },
   {
     "firstName": "Joel",
@@ -23831,7 +25486,9 @@
         "name": "Machine Learning (ML) Operationalization",
         "id": "54213"
       }
-    ]
+    ],
+    "title": "Expert Data Scientist",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sonja",
@@ -23867,14 +25524,18 @@
         "name": "Deep Learning",
         "id": "22806"
       }
-    ]
+    ],
+    "title": "Advanced Data Scientist",
+    "location": "Schlieren"
   },
   {
     "firstName": "Janine",
     "lastName": "Kaufmann",
     "id": 186613,
     "code": "jaka",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Christoph",
@@ -23922,7 +25583,9 @@
         "name": "Software Engineering",
         "id": "337"
       }
-    ]
+    ],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ivo",
@@ -23962,14 +25625,18 @@
         "name": "Augmented Reality",
         "id": "1573"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Gabriel",
     "lastName": "Krummenacher",
     "id": 175274,
     "code": "gakr",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Yacine",
@@ -24017,7 +25684,9 @@
         "name": "Assignment@ZDE",
         "id": "54204"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Heiner",
@@ -24057,7 +25726,9 @@
         "name": "Recruiting",
         "id": "468"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Martin",
@@ -24125,7 +25796,9 @@
         "name": "Progressive Web Apps",
         "id": "43586"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Matthias",
@@ -24165,7 +25838,9 @@
         "name": "Quantum Computing",
         "id": "43944"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Simon",
@@ -24225,7 +25900,9 @@
         "name": "Google Cloud Platform (GCP)",
         "id": "23331"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lorenz",
@@ -24325,7 +26002,9 @@
         "name": "Google Cloud Platform (GCP)",
         "id": "23331"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Elias",
@@ -24369,14 +26048,18 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
     "lastName": "Herzig",
     "id": 526,
     "code": "her",
-    "interests": []
+    "interests": [],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Benjamin",
@@ -24416,7 +26099,9 @@
         "name": "Insurance",
         "id": "420"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
@@ -24476,7 +26161,9 @@
         "name": "Microsoft Azure",
         "id": "529"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Joakim",
@@ -24596,7 +26283,9 @@
         "name": "Large-Scale Scrum (LeSS)",
         "id": "1166"
       }
-    ]
+    ],
+    "title": "Lead Software Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Thomas",
@@ -24632,7 +26321,9 @@
         "name": "Microsoft Azure",
         "id": "529"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Mailind",
@@ -24668,7 +26359,9 @@
         "name": "Project Management",
         "id": "458"
       }
-    ]
+    ],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Flavio",
@@ -24684,7 +26377,9 @@
         "name": "CAD",
         "id": "1061"
       }
-    ]
+    ],
+    "title": "Konstrukteur",
+    "location": "Schlieren"
   },
   {
     "firstName": "Nadine",
@@ -24772,14 +26467,18 @@
         "name": "Distributed Team",
         "id": "1803"
       }
-    ]
+    ],
+    "title": "Project Manager",
+    "location": "Bern"
   },
   {
     "firstName": null,
     "lastName": null,
     "id": 186687,
     "code": "fl",
-    "interests": []
+    "interests": [],
+    "title": "Project Manager",
+    "location": null
   },
   {
     "firstName": "Andreas",
@@ -24795,14 +26494,18 @@
         "name": "Architectural Review",
         "id": "1033"
       }
-    ]
+    ],
+    "title": "Principal Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Lucas",
     "lastName": "Schnüriger",
     "id": 186744,
     "code": "lusc",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Mario",
@@ -24842,7 +26545,9 @@
         "name": "WebRTC",
         "id": "1489"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jan",
@@ -24902,7 +26607,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Delia",
@@ -24922,7 +26629,9 @@
         "name": "Angular",
         "id": "2487"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Thomas",
@@ -24942,7 +26651,9 @@
         "name": "IoT",
         "id": "523"
       }
-    ]
+    ],
+    "title": "Expert Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Yannick",
@@ -25018,14 +26729,18 @@
         "name": "Python",
         "id": "96"
       }
-    ]
+    ],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Kevin",
     "lastName": "Gerspacher",
     "id": 186820,
     "code": "kege",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
@@ -25081,14 +26796,18 @@
         "name": "Angular",
         "id": "2487"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefanie",
     "lastName": "Ziltener",
     "id": 186785,
     "code": "stzi",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Murièle",
@@ -25124,7 +26843,9 @@
         "name": "Single Page Applications",
         "id": "1078"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andres",
@@ -25156,7 +26877,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Robin",
@@ -25196,35 +26919,45 @@
         "name": "Reactive Architectures",
         "id": "1113"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Egor",
     "lastName": "Popelyaev",
     "id": 186730,
     "code": "egpo",
-    "interests": []
+    "interests": [],
+    "title": "Advanced QA Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rico",
     "lastName": "Derrer",
     "id": 186737,
     "code": "ride",
-    "interests": []
+    "interests": [],
+    "title": "Advanced Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Andreas",
     "lastName": "Ritz",
     "id": 186740,
     "code": "anri",
-    "interests": []
+    "interests": [],
+    "title": "Professional Software Engineer",
+    "location": "Bern"
   },
   {
     "firstName": "Mathis",
     "lastName": "Kündig",
     "id": 186742,
     "code": "kuma",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Alexandra",
@@ -25240,91 +26973,117 @@
         "name": "Web Frontend Development",
         "id": "743"
       }
-    ]
+    ],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Oliver",
     "lastName": "Dias",
     "id": 186778,
     "code": "oldi",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Heinz",
     "lastName": "Hofmann",
     "id": 186867,
     "code": "hohe",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Alan",
     "lastName": "Meile",
     "id": 186869,
     "code": "alme",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Pascal",
     "lastName": "Wiesmann",
     "id": 186788,
     "code": "pawi",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Jerinas",
     "lastName": "Gresch",
     "id": 186779,
     "code": "jegr",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Sarah",
     "lastName": "Hirsiger",
     "id": 186870,
     "code": "sahi",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Nijaz",
     "lastName": "Zaljevic",
     "id": 186849,
     "code": "niza",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Severin",
     "lastName": "Pereto",
     "id": 186861,
     "code": "sepe",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Martin",
     "lastName": "Odermatt",
     "id": 186786,
     "code": "maod",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Patrick",
     "lastName": "Steger",
     "id": 186787,
     "code": "stpa",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Erik",
     "lastName": "Jaen Yelamos",
     "id": 186789,
     "code": "erja",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Bern"
   },
   {
     "firstName": "Silas",
     "lastName": "Stulz",
     "id": 186871,
     "code": "sils",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Bern"
   },
   {
     "firstName": "Gregor",
@@ -25356,7 +27115,9 @@
         "name": "IT Service Management",
         "id": "810"
       }
-    ]
+    ],
+    "title": "Service Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Daniel",
@@ -25444,7 +27205,9 @@
         "name": "Octopus Deploy",
         "id": "1529"
       }
-    ]
+    ],
+    "title": "Lead DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Samuel",
@@ -25524,7 +27287,9 @@
         "name": "Continuous integration and delivery",
         "id": "371"
       }
-    ]
+    ],
+    "title": "Advanced DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
@@ -25588,14 +27353,18 @@
         "name": "Insurance",
         "id": "420"
       }
-    ]
+    ],
+    "title": "Service Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Herbert",
     "lastName": "Spychiger",
     "id": 350,
     "code": "hsp",
-    "interests": []
+    "interests": [],
+    "title": "Expert DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jonas",
@@ -25619,7 +27388,9 @@
         "name": "Amazon Web Services",
         "id": "53"
       }
-    ]
+    ],
+    "title": "Expert DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Stefan",
@@ -25671,14 +27442,18 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Professional DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Bryan",
     "lastName": "Albrecht",
     "id": 176114,
     "code": "balb",
-    "interests": []
+    "interests": [],
+    "title": "Professional DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Yannick",
@@ -25734,14 +27509,18 @@
         "name": "Web Frontend Development",
         "id": "743"
       }
-    ]
+    ],
+    "title": "Professional DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Joel",
     "lastName": "Suter",
     "id": 186665,
     "code": "josu",
-    "interests": []
+    "interests": [],
+    "title": "Professional DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Nick",
@@ -25773,7 +27552,9 @@
         "name": "Django",
         "id": "662"
       }
-    ]
+    ],
+    "title": "Professional DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabian",
@@ -25793,7 +27574,9 @@
         "name": "Zühlke Asia",
         "id": "22746"
       }
-    ]
+    ],
+    "title": "Professional DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ken",
@@ -25877,7 +27660,9 @@
         "name": "Google Cloud Platform (GCP)",
         "id": "23331"
       }
-    ]
+    ],
+    "title": "Advanced DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Jonas",
@@ -25997,7 +27782,9 @@
         "name": "Software Engineering",
         "id": "337"
       }
-    ]
+    ],
+    "title": "Advanced DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Beat",
@@ -26069,7 +27856,9 @@
         "name": "Leadership",
         "id": "464"
       }
-    ]
+    ],
+    "title": "Advanced DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Martin",
@@ -26097,14 +27886,18 @@
         "name": "Web Security",
         "id": "2033"
       }
-    ]
+    ],
+    "title": "Advanced DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Tuana",
     "lastName": "Savrim",
     "id": 176516,
     "code": "tusa",
-    "interests": []
+    "interests": [],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Romano",
@@ -26152,14 +27945,18 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Principal Consultant SW",
+    "location": "Schlieren"
   },
   {
     "firstName": "Ellen",
     "lastName": "Syben",
     "id": 175968,
     "code": "elsy",
-    "interests": []
+    "interests": [],
+    "title": "Service Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Frank",
@@ -26207,7 +28004,9 @@
         "name": "Railway",
         "id": "43794"
       }
-    ]
+    ],
+    "title": "Service Manager",
+    "location": "Schlieren"
   },
   {
     "firstName": "Bruno",
@@ -26223,7 +28022,9 @@
         "name": "DevOps",
         "id": "1499"
       }
-    ]
+    ],
+    "title": "Lead DevOps Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Josua",
@@ -26271,28 +28072,36 @@
         "name": "Value Engineering",
         "id": "1574"
       }
-    ]
+    ],
+    "title": "Trainee",
+    "location": "Schlieren"
   },
   {
     "firstName": "Adrian",
     "lastName": "Spycher",
     "id": 186875,
     "code": "adsp",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Bern"
   },
   {
     "firstName": "Stephan",
     "lastName": "Krannich",
     "id": 186808,
     "code": "stkr",
-    "interests": []
+    "interests": [],
+    "title": "Lead Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Remo",
     "lastName": "Schenker",
     "id": 186814,
     "code": "resc",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Ulrich",
@@ -26348,7 +28157,9 @@
         "name": "Innovation",
         "id": "465"
       }
-    ]
+    ],
+    "title": "Business Consultant",
+    "location": "Bern"
   },
   {
     "firstName": "Basil",
@@ -26388,7 +28199,9 @@
         "name": "Pharmaindustrie",
         "id": "43799"
       }
-    ]
+    ],
+    "title": "Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "David",
@@ -26476,7 +28289,9 @@
         "name": "New Business Development",
         "id": "625"
       }
-    ]
+    ],
+    "title": "Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Simon",
@@ -26556,14 +28371,18 @@
         "name": "Employer Branding",
         "id": "54242"
       }
-    ]
+    ],
+    "title": "Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Marco",
     "lastName": "Balzarini",
     "id": 375,
     "code": "mba",
-    "interests": []
+    "interests": [],
+    "title": "Consulting Director",
+    "location": "Schlieren"
   },
   {
     "firstName": "Cédric",
@@ -26611,7 +28430,9 @@
         "name": "Business Consulting",
         "id": "2472"
       }
-    ]
+    ],
+    "title": "Principal Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Harm",
@@ -26643,7 +28464,9 @@
         "name": "Business Case Calculation",
         "id": "2217"
       }
-    ]
+    ],
+    "title": "Principal Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Nadine",
@@ -26691,7 +28514,9 @@
         "name": "Behavioral Design",
         "id": "33504"
       }
-    ]
+    ],
+    "title": "Principal Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Sarah",
@@ -26707,7 +28532,9 @@
         "name": "Machine Learning",
         "id": "506"
       }
-    ]
+    ],
+    "title": "Lead Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Wolfgang",
@@ -26731,7 +28558,9 @@
         "name": "Fast Data",
         "id": "2204"
       }
-    ]
+    ],
+    "title": "Principal Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Gian-Marco",
@@ -26763,7 +28592,9 @@
         "name": "Apache Spark",
         "id": "1635"
       }
-    ]
+    ],
+    "title": "Principal Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Hendrik",
@@ -26807,7 +28638,9 @@
         "name": "Cloud Computing",
         "id": "346"
       }
-    ]
+    ],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   },
   {
     "firstName": "Severin",
@@ -26843,35 +28676,45 @@
         "name": "IoT",
         "id": "523"
       }
-    ]
+    ],
+    "title": "Principal Consultant SW",
+    "location": "Schlieren"
   },
   {
     "firstName": "Herwig",
     "lastName": "Kohl",
     "id": 893,
     "code": "hko",
-    "interests": []
+    "interests": [],
+    "title": "Principal Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Claudia",
     "lastName": "Scherrer",
     "id": 175395,
     "code": "clsc",
-    "interests": []
+    "interests": [],
+    "title": "Senior Business Consultant",
+    "location": "Schlieren"
   },
   {
     "firstName": "Rolf P.",
     "lastName": "Maisch",
     "id": 96,
     "code": "rpm",
-    "interests": []
+    "interests": [],
+    "title": "Consulting Director",
+    "location": "Schlieren"
   },
   {
     "firstName": "Noemi",
     "lastName": "Rom",
     "id": 186829,
     "code": "noro",
-    "interests": []
+    "interests": [],
+    "title": null,
+    "location": "Schlieren"
   },
   {
     "firstName": "Biraveenmaks",
@@ -26899,13 +28742,17 @@
         "name": "Groovy",
         "id": "104"
       }
-    ]
+    ],
+    "title": "Professional Software Engineer",
+    "location": "Schlieren"
   },
   {
     "firstName": "Fabio",
     "lastName": "Plachetta",
     "id": 186848,
     "code": "fapl",
-    "interests": []
+    "interests": [],
+    "title": "Lead Architect",
+    "location": "Schlieren"
   }
 ]

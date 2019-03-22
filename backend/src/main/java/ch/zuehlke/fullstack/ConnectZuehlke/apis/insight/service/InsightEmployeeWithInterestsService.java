@@ -25,6 +25,8 @@ public class InsightEmployeeWithInterestsService implements InsightEmployeeServi
 
     @Override
     public List<Employee> getEmployees() {
+//        List<Employee> employees = employeeServiceRemote.getEmployees();
+//        employees.forEach(employee ->  employee.setInterests(interestsServiceRemote.getInterests(employee.getCode())));
         List<Employee> employees = getEmployeesFromJson();
         return employees;
     }
@@ -43,7 +45,7 @@ public class InsightEmployeeWithInterestsService implements InsightEmployeeServi
     }
 
     private String getJsonCache() throws IOException {
-        String file ="/backend/src/main/java/ch/zuehlke/fullstack/ConnectZuehlke/apis/insight/service/employeeCache.json";
+        String file ="/src/main/java/ch/zuehlke/fullstack/ConnectZuehlke/apis/insight/service/employeeCache1.json";
         String jsonAsString = "";
         String path = new File("").getAbsolutePath();
         file = path + file;

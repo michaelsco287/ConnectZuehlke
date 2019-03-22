@@ -14,6 +14,18 @@ public class EmployeeDto {
     private int id;
     @JsonProperty("Code")
     private String code;
+    @JsonProperty("Title")
+    private String title;
+    @JsonProperty("Location")
+    private String location;
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getLocation() {
+        return location;
+    }
 
     public String getLastName() {
         return lastName;
@@ -28,7 +40,7 @@ public class EmployeeDto {
     }
 
     public Employee toEmployee() {
-        return new Employee(getFirstName(), getLastName(), getId(), getCode());
+        return new Employee(getFirstName(), getLastName(), getId(), getCode(), getTitle(), getLocation());
     }
 
     private String getCode() {

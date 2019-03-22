@@ -11,6 +11,9 @@ public class Employee {
     private int id;
     private String code;
     private List<Interests> interests;
+    private String title;
+    private String location;
+
 
     public Employee(String firstName, String lastName, int id) {
         this(firstName, lastName, id, firstName.substring(0, 1) + lastName.substring(0, 2));
@@ -30,6 +33,33 @@ public class Employee {
         this.id = id;
         this.code = code;
         this.interests = interests;
+    }
+
+    public Employee(String firstName, String lastName, int id, String code, String title, String location) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.id = id;
+        this.code = code;
+        this.title = title;
+        this.location = location;
+    }
+
+    public Employee(String firstName, String lastName, int id, String code, List<Interests> interests, String title, String location) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.id = id;
+        this.code = code;
+        this.interests = interests;
+        this.title = title;
+        this.location = location;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getLocation() {
+        return location;
     }
 
     public String getLastName() {

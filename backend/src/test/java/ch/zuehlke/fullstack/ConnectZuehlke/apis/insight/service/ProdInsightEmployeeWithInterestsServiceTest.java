@@ -18,8 +18,8 @@ public class ProdInsightEmployeeWithInterestsServiceTest {
     public void getEmployeeCombinesEmployeeAndInterestForValidCodeSuccessfully(){
         List<Interests> interestsList = new ArrayList<>();
         interestsList.add(new Interests("Zorbing", "26"));
-        Employee employeeNoInterests = new Employee("John", "Doe", 1, "JoDo");
-        Employee expectedEmployee = new Employee("John", "Doe", 1, "JoDo");
+        Employee employeeNoInterests = new Employee("John", "Doe", 1, "JoDo", "court jester", "camelot");
+        Employee expectedEmployee = new Employee("John", "Doe", 1, "JoDo", "court jester", "camelot");
         expectedEmployee.setInterests(interestsList);
 
         InsightEmployeeServiceRemote mockEmployeeService = mock(InsightEmployeeServiceRemote.class);
