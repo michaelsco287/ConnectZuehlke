@@ -1,15 +1,16 @@
 <div class="page-container" *ngIf="employee$ | async as employee">
   <mat-card>
     <mat-card-header>
-      <mat-card-title>
+
         <img matCardAvatar
              defaultImage="assets/demo.jpg" lazyLoad="/api/employee/{{employee.id}}/picture"
              alt="{{employee.firstName}} {{employee.lastName}}">
-        <h3>{{ employee.firstName}} {{ employee.lastName}}</h3>
-      </mat-card-title>
+      <mat-card-title>{{ employee | fullname}}</mat-card-title>
+      <mat-card-subtitle>{{employee.code}}</mat-card-subtitle>
+
     </mat-card-header>
 
-    <mat-card-content>
+    <mat-card-content style="margin-top: 10px;">
       <p><label>Id: </label>{{ employee.id }}</p>
     </mat-card-content>
 

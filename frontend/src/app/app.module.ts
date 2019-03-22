@@ -42,6 +42,7 @@ import {CustomerComponent} from './customer-list/customer/customer.component';
 import {ErrorRequestInterceptor} from './common/error-request-interceptor';
 import {EmployeeInterestsComponent} from './employee-interests/employee-interests.component';
 import {InterestDetailComponent} from './employee-interests/interest-detail/interest-detail.component';
+import {FullnamePipe} from './fullname.pipe';
 
 
 // For more icons, please checkout https://fontawesome.com/icons?d=gallery
@@ -67,7 +68,8 @@ library.add(faAngleRight);
     CustomerListComponent,
     CustomerComponent,
     EmployeeInterestsComponent,
-    InterestDetailComponent
+    InterestDetailComponent,
+    FullnamePipe
   ],
   imports: [
     BrowserModule,
