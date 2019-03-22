@@ -1,9 +1,14 @@
-<ng-container *ngIf="employee$ | async as employee">
+<div class="page-container" *ngIf="employee$ | async as employee">
   <h1 id="name-title">{{employee.firstName + " " + employee.lastName}}</h1>
-  <ul id="interests-list">
-    <li *ngFor="let interest of INTERESTS">
-      <a matLine [routerLink]="[interest.id]">{{ interest.name }}</a>
-    </li>
-  </ul>
+  <mat-divider></mat-divider>
+  <h2>Interests</h2>
+  <div id="interests-list">
+    <a class="no-underline" [routerLink]="[interest.id]" *ngFor="let interest of employee.interests">
+      <mat-card class="interest-list-item">
+        <mat-card-title>{{ interest.name }}</mat-card-title>
+        <fa-icon icon="angle-right" size="1x"></fa-icon>
+      </mat-card>
+    </a>
+  </div>
   <h2>{{currentUrl}}</h2>
-</ng-container>
+</div>

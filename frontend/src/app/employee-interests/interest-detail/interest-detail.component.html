@@ -1,10 +1,20 @@
-<div *ngIf="employees$ | async as employees">
-  <ul id="interested-employees-list">
-    <li *ngFor="let employee of employees">
-      {{employee.firstName}} {{employee.lastName}}
-    </li>
-  </ul>
-</div>
-<div>
-  Twitter component
+<div class="page-container" *ngIf="employees$ | async as employees">
+  <h1>Interest</h1>
+  <mat-divider></mat-divider>
+  <h2>Colleagues sharing this interest</h2>
+  <p *ngIf="employees.length === 0">No matching employees</p>
+  <mat-grid-list id="interested-employees-list" cols="4" rowHeight="100px">
+    <mat-grid-tile *ngFor="let employee of employees">
+      <mat-card>
+        <mat-card-header>
+          <img matCardAvatar
+               defaultImage="assets/demo.jpg" lazyLoad="/api/employee/{{employee.id}}/picture"
+               alt="{{employee.firstName}} {{employee.lastName}}">
+          <mat-card-title>{{employee.firstName}} {{employee.lastName}}</mat-card-title>
+          <mat-card-subtitle>{{employee.code}}</mat-card-subtitle>
+        </mat-card-header>
+      </mat-card>
+
+    </mat-grid-tile>
+  </mat-grid-list>
 </div>

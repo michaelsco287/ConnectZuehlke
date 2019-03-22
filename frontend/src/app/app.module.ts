@@ -4,7 +4,7 @@ import {NgModule} from '@angular/core';
 import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
 import {FontAwesomeModule} from '@fortawesome/angular-fontawesome';
-import {faHeart} from '@fortawesome/free-solid-svg-icons';
+import {faAngleRight, faHeart} from '@fortawesome/free-solid-svg-icons';
 import {faAngular, faJava} from '@fortawesome/free-brands-svg-icons';
 import {intersectionObserverPreset, LazyLoadImageModule} from 'ng-lazyload-image';
 
@@ -19,6 +19,8 @@ import {FormsModule} from '@angular/forms';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {
   MatButtonModule,
+  MatCardModule,
+  MatGridListModule,
   MatIconModule,
   MatInputModule,
   MatListModule,
@@ -46,6 +48,7 @@ import {InterestDetailComponent} from './employee-interests/interest-detail/inte
 library.add(faHeart);
 library.add(faJava);
 library.add(faAngular);
+library.add(faAngleRight);
 
 
 @NgModule({
@@ -76,6 +79,7 @@ library.add(faAngular);
     }),
     HttpClientModule,
     BrowserAnimationsModule,
+    MatCardModule,
     MatInputModule,
     MatButtonModule,
     MatSelectModule,
@@ -85,6 +89,7 @@ library.add(faAngular);
     MatToolbarModule,
     MatSidenavModule,
     MatListModule,
+    MatGridListModule,
     AgmCoreModule.forRoot({apiKey: 'AIzaSyBrgp24CvFV3M0PZGByVDVEG0qn56k8Y-g'})
   ],
   providers: [
