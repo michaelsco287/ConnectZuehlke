@@ -5,6 +5,9 @@ import ch.zuehlke.fullstack.ConnectZuehlke.domain.Interests;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.List;
 
@@ -38,5 +41,21 @@ public class InsightEmployeeWithInterestsService implements InsightEmployeeServi
         List<Interests> interests = interestsServiceRemote.getInterests(code);
         employee.setInterests(interests);
         return employee;
+    }
+
+    private String getJsonCache() throws IOException {
+        String file ="./employeeCache.json";
+        String jsonAsString = "";
+
+        BufferedReader reader = new BufferedReader(new FileReader(file));
+
+        while(reader.read()!=-1)
+        {
+            jsonAsString=reader.readLine();
+        }
+        reader.close();
+        System.out.println(jsonAsString);
+
+        return jsonAsString;
     }
 }
