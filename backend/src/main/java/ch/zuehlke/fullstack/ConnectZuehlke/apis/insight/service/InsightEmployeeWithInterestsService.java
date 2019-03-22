@@ -2,13 +2,13 @@ package ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service;
 
 import ch.zuehlke.fullstack.ConnectZuehlke.domain.Employee;
 import ch.zuehlke.fullstack.ConnectZuehlke.domain.Interests;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
+import java.lang.reflect.Type;
+import java.util.ArrayList;
 import java.util.List;
 
 @Service
@@ -25,8 +25,7 @@ public class InsightEmployeeWithInterestsService implements InsightEmployeeServi
 
     @Override
     public List<Employee> getEmployees() {
-        List<Employee> employees = employeeServiceRemote.getEmployees();
-        employees.forEach(employee ->  employee.setInterests(interestsServiceRemote.getInterests(employee.getCode())));
+        List<Employee> employees = getEmployeesFromJson();
         return employees;
     }
 
@@ -44,18 +43,31 @@ public class InsightEmployeeWithInterestsService implements InsightEmployeeServi
     }
 
     private String getJsonCache() throws IOException {
-        String file ="./employeeCache.json";
+        String file ="/backend/src/main/java/ch/zuehlke/fullstack/ConnectZuehlke/apis/insight/service/employeeCache.json";
         String jsonAsString = "";
-
+        String path = new File("").getAbsolutePath();
+        file = path + file;
         BufferedReader reader = new BufferedReader(new FileReader(file));
-
         while(reader.read()!=-1)
         {
-            jsonAsString=reader.readLine();
+            jsonAsString += reader.readLine();
         }
         reader.close();
-        System.out.println(jsonAsString);
-
-        return jsonAsString;
+        return "["+jsonAsString+"]";
     }
+
+    public List<Employee> getEmployeesFromJson(){
+        Gson gson = new Gson();
+        Type listType = new TypeToken<List<Employee>>(){}.getType();
+        List<Employee> employees = new ArrayList<>();
+        try{
+            String json = getJsonCache();
+            employees = gson.fromJson(json, listType);
+        }
+        catch (IOException e) {
+            e.printStackTrace();
+        }
+        return employees;
+    }
+
 }

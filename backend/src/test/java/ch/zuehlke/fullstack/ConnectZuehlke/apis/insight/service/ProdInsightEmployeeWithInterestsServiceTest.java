@@ -2,6 +2,7 @@ package ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service;
 
 import ch.zuehlke.fullstack.ConnectZuehlke.domain.Employee;
 import ch.zuehlke.fullstack.ConnectZuehlke.domain.Interests;
+import org.junit.Ignore;
 import org.junit.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -34,6 +35,7 @@ public class ProdInsightEmployeeWithInterestsServiceTest {
     }
 
     @Test
+    @Ignore("Replaced with Json storage for now")
     public void getEmployeesCombinesEmployeeAndInterestForValidCodeSuccessfully(){
         List<Interests> interestsList = new ArrayList<>();
         interestsList.add(new Interests("Zorbing", "26"));
@@ -51,6 +53,16 @@ public class ProdInsightEmployeeWithInterestsServiceTest {
 
         List<Employee> actualEmployees = service.getEmployees();
         assertEquals(actualEmployees, expectedEmployees);
+    }
+
+    @Test
+    @Ignore("Just to print")
+    public void getEmployeesFromJsonTest(){
+        InsightEmployeeServiceRemote mockEmployeeService = mock(InsightEmployeeServiceRemote.class);
+        InsightInterestsServiceRemote mockInterestsService = mock(InsightInterestsServiceRemote.class);
+        InsightEmployeeService service = new InsightEmployeeWithInterestsService(mockEmployeeService, mockInterestsService);
+        List<Employee> employees = ((InsightEmployeeWithInterestsService) service).getEmployeesFromJson();
+        employees.forEach(employee -> System.out.println(employee.toString()));
     }
 
 }
