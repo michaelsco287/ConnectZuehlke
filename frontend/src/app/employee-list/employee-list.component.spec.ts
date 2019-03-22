@@ -12,6 +12,7 @@ import {NoopAnimationsModule} from '@angular/platform-browser/animations';
 import {EmployeeComponent} from './employee/employee.component';
 import {LazyLoadImageModule} from 'ng-lazyload-image';
 import {RouterTestingModule} from '@angular/router/testing';
+import {FullnamePipe} from "../fullname.pipe";
 
 describe('EmployeeListComponent', () => {
   let component: EmployeeListComponent;
@@ -33,6 +34,7 @@ describe('EmployeeListComponent', () => {
         EmployeeListComponent,
         EmployeeComponent,
         SearchPipe,
+        FullnamePipe
       ],
       providers: [
         {provide: EmployeeService, useClass: EmployeeServiceMock}
