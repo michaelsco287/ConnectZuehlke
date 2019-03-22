@@ -3,18 +3,21 @@
   <mat-divider></mat-divider>
   <h2>Colleagues sharing this interest</h2>
   <p *ngIf="employees.length === 0">No matching employees</p>
-  <mat-grid-list id="interested-employees-list" cols="4" rowHeight="150px">
-    <mat-grid-tile *ngFor="let employee of employees">
-      <mat-card style="width: 200px; margin:10px;" routerLink="/employee/{{employee.code}}">
-        <mat-card-header>
-          <img matCardAvatar
-               defaultImage="assets/demo.jpg" lazyLoad="/api/employee/{{employee.id}}/picture"
-               alt="{{employee | fullname}}">
-          <mat-card-title>{{employee | fullname}}</mat-card-title>
-          <mat-card-subtitle>{{employee.title}}</mat-card-subtitle>
-        </mat-card-header>
-      </mat-card>
+  <div *ngFor="let location of employees | groupByLocation">
+    <h3>{{location.key}}</h3>
+    <mat-grid-list id="interested-employees-list" cols="4" rowHeight="150px">
+      <mat-grid-tile *ngFor="let employee of location.value">
+        <mat-card style="width: 200px; margin:10px;" routerLink="/employee/{{employee.code}}">
+          <mat-card-header>
+            <img matCardAvatar
+                 defaultImage="assets/demo.jpg" lazyLoad="/api/employee/{{employee.id}}/picture"
+                 alt="{{employee | fullname}}">
+            <mat-card-title>{{employee | fullname}}</mat-card-title>
+            <mat-card-subtitle>{{employee.title}}</mat-card-subtitle>
+          </mat-card-header>
+        </mat-card>
 
-    </mat-grid-tile>
-  </mat-grid-list>
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>
 </div>

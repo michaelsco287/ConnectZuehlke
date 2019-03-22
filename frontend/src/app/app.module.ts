@@ -45,6 +45,7 @@ import {EmployeeInterestsComponent} from './employee-interests/employee-interest
 import {InterestDetailComponent} from './employee-interests/interest-detail/interest-detail.component';
 import {FullnamePipe} from './fullname.pipe';
 import {InterestnamePipe} from './interestname.pipe';
+import {GroupByLocationPipe} from './group-by-location.pipe';
 
 
 // For more icons, please checkout https://fontawesome.com/icons?d=gallery
@@ -72,7 +73,8 @@ library.add(faAngleRight);
     EmployeeInterestsComponent,
     InterestDetailComponent,
     FullnamePipe,
-    InterestnamePipe
+    InterestnamePipe,
+    GroupByLocationPipe
   ],
   imports: [
     BrowserModule,
