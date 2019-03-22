@@ -41,4 +41,12 @@ public class Interests {
     public int hashCode() {
         return Objects.hash(name, id);
     }
+
+    @Override
+    public String toString() {
+        return "Interests{" +
+                "name='" + name + '\'' +
+                ", id='" + id + '\'' +
+                '}';
+    }
 }
