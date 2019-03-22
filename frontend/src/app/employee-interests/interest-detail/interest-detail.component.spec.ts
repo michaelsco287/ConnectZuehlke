@@ -8,6 +8,7 @@ import {Employee} from "../../domain/Employee";
 import {Observable, of} from "rxjs";
 import {MatCardModule, MatDividerModule, MatGridListModule} from "@angular/material";
 import {LazyLoadImageModule} from "ng-lazyload-image";
+import {FullnamePipe} from "../../fullname.pipe";
 
 describe('InterestDetailComponent', () => {
   let component: InterestDetailComponent;
@@ -22,7 +23,7 @@ describe('InterestDetailComponent', () => {
         MatCardModule,
         MatGridListModule
       ],
-      declarations: [InterestDetailComponent],
+      declarations: [InterestDetailComponent, FullnamePipe],
       providers: [
         {provide: EmployeeService, useClass: EmployeeServiceStub}
       ]

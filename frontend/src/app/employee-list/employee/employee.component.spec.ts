@@ -5,6 +5,7 @@ import {NoopAnimationsModule} from '@angular/platform-browser/animations';
 import {MatListModule} from '@angular/material';
 import {LazyLoadImageModule} from 'ng-lazyload-image';
 import {RouterTestingModule} from '@angular/router/testing';
+import {FullnamePipe} from "../../fullname.pipe";
 
 describe('EmployeeComponent', () => {
   let component: EmployeeComponent;
@@ -12,7 +13,7 @@ describe('EmployeeComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [EmployeeComponent],
+      declarations: [EmployeeComponent, FullnamePipe],
       imports: [
         NoopAnimationsModule,
         MatListModule,
