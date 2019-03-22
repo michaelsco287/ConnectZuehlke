@@ -9,8 +9,8 @@
         <mat-card-header>
           <img matCardAvatar
                defaultImage="assets/demo.jpg" lazyLoad="/api/employee/{{employee.id}}/picture"
-               alt="{{employee.firstName}} {{employee.lastName}}">
-          <mat-card-title>{{employee.firstName}} {{employee.lastName}}</mat-card-title>
+               alt="{{employee | fullname}}">
+          <mat-card-title>{{employee | fullname}}</mat-card-title>
           <mat-card-subtitle>{{employee.code}}</mat-card-subtitle>
         </mat-card-header>
       </mat-card>
