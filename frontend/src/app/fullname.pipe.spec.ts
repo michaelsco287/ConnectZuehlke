@@ -8,7 +8,7 @@ describe('FullnamePipe', () => {
 
   it("returns an employee's fullname", () => {
     const pipe = new FullnamePipe();
-    const employee = {id: 0, code: "tote", firstName: "Tommy", lastName: "Tester", interests: []};
+    const employee = {id: 0, code: "tote", firstName: "Tommy", lastName: "Tester", interests: [], title: "tester", location: "hollow"};
     expect(pipe.transform(employee)).toBe("Tommy Tester")
   })
 });

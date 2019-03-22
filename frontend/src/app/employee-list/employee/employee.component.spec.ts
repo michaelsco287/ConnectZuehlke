@@ -27,7 +27,7 @@ describe('EmployeeComponent', () => {
   beforeEach(() => {
     fixture = TestBed.createComponent(EmployeeComponent);
     component = fixture.componentInstance;
-    component.employee = {firstName: 'Max', lastName: 'Mustermann', id: 2, code: 'mmu', interests: []};
+    component.employee = {firstName: 'Max', lastName: 'Mustermann', id: 2, code: 'mmu', interests: [], location: "under the sea", title: "songbird"};
     fixture.detectChanges();
   });
 

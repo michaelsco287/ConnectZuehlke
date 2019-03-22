@@ -5,7 +5,7 @@ import {Pipe, PipeTransform} from '@angular/core';
 })
 export class GroupByLocationPipe implements PipeTransform {
 
-  transform(collection: Array): Array {
+  transform(collection: Array<any>): Array<any> {
     // prevents the application from breaking if the array of objects doesn't exist yet
     if (!collection) {
       return null;
