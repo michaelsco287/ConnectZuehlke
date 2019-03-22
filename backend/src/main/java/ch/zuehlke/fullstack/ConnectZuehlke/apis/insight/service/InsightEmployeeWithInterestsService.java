@@ -22,7 +22,9 @@ public class InsightEmployeeWithInterestsService implements InsightEmployeeServi
 
     @Override
     public List<Employee> getEmployees() {
-        return null;
+        List<Employee> employees = employeeServiceRemote.getEmployees();
+        employees.forEach(employee ->  employee.setInterests(interestsServiceRemote.getInterests(employee.getCode())));
+        return employees;
     }
 
     @Override

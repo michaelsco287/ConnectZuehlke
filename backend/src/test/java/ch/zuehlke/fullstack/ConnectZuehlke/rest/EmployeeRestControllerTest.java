@@ -1,6 +1,7 @@
 package ch.zuehlke.fullstack.ConnectZuehlke.rest;
 
 import ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service.InsightEmployeeFetchService;
+import ch.zuehlke.fullstack.ConnectZuehlke.apis.insight.service.InsightEmployeeService;
 import ch.zuehlke.fullstack.ConnectZuehlke.domain.Employee;
 import ch.zuehlke.fullstack.ConnectZuehlke.domain.Interests;
 import org.junit.Test;
@@ -13,7 +14,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -30,7 +30,7 @@ public class EmployeeRestControllerTest {
     private MockMvc mockMvc;
 
     @MockBean
-    private InsightEmployeeFetchService employeeService;
+    private InsightEmployeeService employeeService;
 
     @Test
     public void testGetEmptyUsers() throws Exception {
