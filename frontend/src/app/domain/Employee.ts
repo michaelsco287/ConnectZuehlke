@@ -6,4 +6,6 @@ export interface Employee {
   id: number;
   code: string;
   interests: Interest[];
+  location: string;
+  title: string;
 }
