@@ -14,7 +14,7 @@ const routes: Routes = [
   {path: 'customers', component: CustomerListComponent},
   {path: 'employee/:code', component: EmployeeDetailComponent},
   {path: 'employee/:code/interests', component: EmployeeInterestsComponent},
-  {path: 'employee/:code/interests/:interestId', component: InterestDetailComponent},
+  {path: 'employee/:code/:interestId', component: InterestDetailComponent},
   {path: 'welcome', component: HackathonHeadlineComponent},
   {path: 'map', component: MapComponent},
 

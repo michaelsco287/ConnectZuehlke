@@ -1,5 +1,5 @@
 <div class="page-container" *ngIf="employees$ | async as employees">
-  <h1>Interest</h1>
+  <h1 *ngIf="interestName$ | async as interestName;">{{interestName}}</h1>
   <mat-divider></mat-divider>
   <h2>Colleagues sharing this interest</h2>
   <p *ngIf="employees.length === 0">No matching employees</p>

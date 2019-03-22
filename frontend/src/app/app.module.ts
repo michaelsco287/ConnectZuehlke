@@ -20,6 +20,7 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {
   MatButtonModule,
   MatCardModule,
+  MatExpansionModule,
   MatGridListModule,
   MatIconModule,
   MatInputModule,
@@ -92,6 +93,7 @@ library.add(faAngleRight);
     MatSidenavModule,
     MatListModule,
     MatGridListModule,
+    MatExpansionModule,
     AgmCoreModule.forRoot({apiKey: 'AIzaSyBrgp24CvFV3M0PZGByVDVEG0qn56k8Y-g'})
   ],
   providers: [
