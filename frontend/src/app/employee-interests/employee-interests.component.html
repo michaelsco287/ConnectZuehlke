@@ -3,7 +3,7 @@
   <mat-divider></mat-divider>
   <h2>Interests</h2>
   <div id="interests-list">
-    <a [routerLink]="[interest.id]" *ngFor="let interest of INTERESTS">
+    <a class="no-underline" [routerLink]="[interest.id]" *ngFor="let interest of employee.interests">
       <mat-card class="interest-list-item">
         <mat-card-title>{{ interest.name }}</mat-card-title>
         <fa-icon icon="angle-right" size="1x"></fa-icon>

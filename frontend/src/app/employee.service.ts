@@ -3,6 +3,14 @@ import {Observable, of} from 'rxjs';
 import {catchError, switchMap} from 'rxjs/operators';
 import {HttpClient} from '@angular/common/http';
 import {Employee} from './domain/Employee';
+import {Interest} from "./domain/Interest";
+
+const interests1: Interest[] = [{id: "0", name: "Hacking"}, {id: "1", name: "iOS"}, {id: "2", name: "TDD"}];
+const interests2: Interest[] = [{id: "2", name: "TDD"}, {id: "3", name: "Full stack"}, {id: "4", name: "Badminton"}];
+const EMPLOYEES: Employee[] = [
+  {firstName: "Tommy", lastName: "Tester", id: 0, code: "msco", interests: interests1},
+  {firstName: "Big", lastName: "Sam", id: 1, code: "sawh", interests: interests2}
+];
 
 @Injectable({providedIn: 'root'})
 export class EmployeeService {
@@ -11,7 +19,6 @@ export class EmployeeService {
   }
 
   public getAllEmployees(): Observable<Employee[]> {
-
     return this.http
       .get<Employee[]>('/api/employees')
       .pipe(catchError(this.handleError('getAllEmployees', [])));

@@ -6,6 +6,8 @@ import {EmployeeService} from "../employee.service";
 import {RouterTestingModule} from "@angular/router/testing";
 import {Employee} from "../domain/Employee";
 import {Observable, of} from "rxjs";
+import {MatCardModule, MatDividerModule} from "@angular/material";
+import {FontAwesomeModule} from "@fortawesome/angular-fontawesome";
 
 describe('EmployeeInterestsComponent', () => {
   let component: EmployeeInterestsComponent;
@@ -15,6 +17,9 @@ describe('EmployeeInterestsComponent', () => {
     TestBed.configureTestingModule({
       imports: [
         RouterTestingModule,
+        MatDividerModule,
+        MatCardModule,
+        FontAwesomeModule
       ],
       declarations: [EmployeeInterestsComponent],
       providers: [

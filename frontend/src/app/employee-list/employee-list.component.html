@@ -1,10 +1,12 @@
-<h2>A list of all Zühlke Employees</h2>
+<div class="page-container">
+  <h2>A list of all Zühlke Employees</h2>
 
-<mat-form-field>
-  <input matInput [(ngModel)]="searchQuery" placeholder="Type something to search">
-</mat-form-field>
+  <mat-form-field>
+    <input matInput [(ngModel)]="searchQuery" placeholder="Type something to search">
+  </mat-form-field>
 
-<mat-list data-id="employee-list">
-  <app-employee *ngFor="let employee of employees | search:'firstName,lastName':searchQuery"
-                [employee]="employee"></app-employee>
-</mat-list>
+  <mat-list data-id="employee-list">
+    <app-employee *ngFor="let employee of employees | search:'firstName,lastName':searchQuery"
+                  [employee]="employee"></app-employee>
+  </mat-list>
+</div>
